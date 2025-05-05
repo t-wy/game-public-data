@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-05-05T15:00:09+09:00",
-    "updatedAtTimestamp": 1746424809,
+    "updatedAt": "2025-05-05T17:00:09+09:00",
+    "updatedAtTimestamp": 1746432009,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1958,6 +1958,14 @@
             "mode": "Auto",
             "bpm": [
                 {"bpm": 126, "time": 0.0000, "beats": [4, 4], "forced": false}
+            ]
+        },
+        {
+            "id": 10104,
+            "name": "夕焼け色は始まりの色（Long Ver.）",
+            "mode": "Auto",
+            "bpm": [
+                {"bpm": 170, "time": 0.4706, "beats": [4, 4], "forced": false}
             ]
         },
         {
