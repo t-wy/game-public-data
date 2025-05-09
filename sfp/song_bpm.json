@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-05-09T12:00:05+09:00",
-    "updatedAtTimestamp": 1746759605,
+    "updatedAt": "2025-05-09T15:00:06+09:00",
+    "updatedAtTimestamp": 1746770406,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -257,6 +257,14 @@
             "mode": "Auto",
             "bpm": [
                 {"bpm": 170, "time": 0.0000, "beats": [4, 4], "forced": false}
+            ]
+        },
+        {
+            "id": 36,
+            "name": "シャイノグラフィ",
+            "mode": "Auto",
+            "bpm": [
+                {"bpm": 172, "time": 0.0000, "beats": [2, 4], "forced": false}
             ]
         },
         {
@@ -719,6 +727,14 @@
             "mode": "Auto",
             "bpm": [
                 {"bpm": 170.1698, "time": 0.0000, "beats": [4, 4], "forced": false}
+            ]
+        },
+        {
+            "id": 139,
+            "name": "夢模様キャンバス",
+            "mode": "Auto",
+            "bpm": [
+                {"bpm": 148, "time": 0.8108, "beats": [4, 4], "forced": false}
             ]
         },
         {
