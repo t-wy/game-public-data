@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-05-10T15:00:09+09:00",
-    "updatedAtTimestamp": 1746856809,
+    "updatedAt": "2025-05-10T17:00:09+09:00",
+    "updatedAtTimestamp": 1746864009,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1598,6 +1598,14 @@
                 {"bpm": 240, "time": 112.6008, "beats": [4, 4], "forced": false},
                 {"bpm": 250, "time": 116.6008, "beats": [4, 4], "forced": false},
                 {"bpm": 260, "time": 117.5608, "beats": [4, 4], "forced": false}
+            ]
+        },
+        {
+            "id": 215,
+            "name": "Invitation",
+            "mode": "Auto",
+            "bpm": [
+                {"bpm": 147, "time": 0.8163, "beats": [4, 4], "forced": false}
             ]
         },
         {
