@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-05-14T17:00:13+09:00",
-    "updatedAtTimestamp": 1747209613,
+    "updatedAt": "2025-05-16T17:00:09+09:00",
+    "updatedAtTimestamp": 1747382409,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1947,6 +1947,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 190, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 218,
+            "name": "〚隔絶〛～Flame of Determination",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 150, "time": 0.1333, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
