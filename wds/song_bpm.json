@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-05-18T17:00:09+09:00",
-    "updatedAtTimestamp": 1747555209,
+    "updatedAt": "2025-05-20T17:00:09+09:00",
+    "updatedAtTimestamp": 1747728009,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1888,6 +1888,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 125, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 203,
+            "name": "ハオダー？ハオアー！-好的？好啊！-",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 184, "time": 0.3261, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
