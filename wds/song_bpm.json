@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-05-20T17:00:09+09:00",
-    "updatedAtTimestamp": 1747728009,
+    "updatedAt": "2025-05-23T17:00:09+09:00",
+    "updatedAtTimestamp": 1747987209,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2446,6 +2446,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 148, "time": 0.2027, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 10106,
+            "name": "アクト・レゾナンス（Long Ver.）",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 178, "time": 1.0112, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
