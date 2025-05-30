@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-05-25T14:31:39+09:00",
-    "updatedAtTimestamp": 1748151099,
+    "updatedAt": "2025-05-30T17:00:31+09:00",
+    "updatedAtTimestamp": 1748592031,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3624,6 +3624,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 2056, "tick_count": 394, "hold_end_count": 294, "scratch_hold_end_count": 167 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 2679, "tick_count": 746, "hold_end_count": 384, "scratch_hold_end_count": 100 }
+                }
+            ]
+        },
+        {
+            "id": 10108,
+            "name": "Thirsty Soul（Long Ver.）",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 641, "tick_count": 267, "hold_end_count": 63, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 1206, "tick_count": 609, "hold_end_count": 246, "scratch_hold_end_count": 217 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 1611, "tick_count": 389, "hold_end_count": 235, "scratch_hold_end_count": 160 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 1860, "tick_count": 345, "hold_end_count": 326, "scratch_hold_end_count": 192 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 3058, "tick_count": 643, "hold_end_count": 451, "scratch_hold_end_count": 203 }
                 }
             ]
         },
