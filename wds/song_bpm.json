@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-05-30T17:00:09+09:00",
-    "updatedAtTimestamp": 1748592009,
+    "updatedAt": "2025-05-31T17:00:10+09:00",
+    "updatedAtTimestamp": 1748678410,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1897,6 +1897,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 184, "time": 0.3261, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 204,
+            "name": "Dear My Eden",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 190, "time": 0.0, "beats": [ 2, 4 ], "forced": false
                 }
             ]
         },

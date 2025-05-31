@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-05-30T17:00:31+09:00",
-    "updatedAtTimestamp": 1748592031,
+    "updatedAt": "2025-05-31T17:00:33+09:00",
+    "updatedAtTimestamp": 1748678433,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2896,6 +2896,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 901, "tick_count": 167, "hold_end_count": 229, "scratch_hold_end_count": 188 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1279, "tick_count": 204, "hold_end_count": 244, "scratch_hold_end_count": 125 }
+                }
+            ]
+        },
+        {
+            "id": 204,
+            "name": "Dear My Eden",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 255, "tick_count": 104, "hold_end_count": 29, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 389, "tick_count": 171, "hold_end_count": 75, "scratch_hold_end_count": 49 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 688, "tick_count": 266, "hold_end_count": 142, "scratch_hold_end_count": 94 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 823, "tick_count": 207, "hold_end_count": 184, "scratch_hold_end_count": 131 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 980, "tick_count": 224, "hold_end_count": 176, "scratch_hold_end_count": 72 }
                 }
             ]
         },
