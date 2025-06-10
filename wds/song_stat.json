@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-06-10T12:00:32+09:00",
-    "updatedAtTimestamp": 1749524432,
+    "updatedAt": "2025-06-10T17:00:35+09:00",
+    "updatedAtTimestamp": 1749542435,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2912,6 +2912,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 823, "tick_count": 207, "hold_end_count": 184, "scratch_hold_end_count": 131 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 980, "tick_count": 224, "hold_end_count": 176, "scratch_hold_end_count": 72 }
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "name": "Sunny day in June.",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 195, "tick_count": 105, "hold_end_count": 23, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 375, "tick_count": 152, "hold_end_count": 89, "scratch_hold_end_count": 52 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 586, "tick_count": 191, "hold_end_count": 146, "scratch_hold_end_count": 92 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 782, "tick_count": 176, "hold_end_count": 271, "scratch_hold_end_count": 195 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 928, "tick_count": 223, "hold_end_count": 193, "scratch_hold_end_count": 85 }
                 }
             ]
         },
