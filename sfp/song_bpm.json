@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-06-06T17:22:36+09:00",
-    "updatedAtTimestamp": 1749198156,
+    "updatedAt": "2025-06-10T15:00:06+09:00",
+    "updatedAtTimestamp": 1749535206,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -297,6 +297,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 172, "time": 0.0, "beats": [ 2, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Dye the sky.",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 216, "time": 0.0, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
