@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-06-10T17:00:35+09:00",
-    "updatedAtTimestamp": 1749542435,
+    "updatedAt": "2025-06-17T12:00:33+09:00",
+    "updatedAtTimestamp": 1750129233,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3716,6 +3716,18 @@
                 { "difficulty": "HARD", "stat": { "note_count": 1104, "tick_count": 524, "hold_end_count": 198, "scratch_hold_end_count": 115 }
                 },
                 { "difficulty": "EXTRA", "stat": { "note_count": 1724, "tick_count": 590, "hold_end_count": 302, "scratch_hold_end_count": 183 }
+                }
+            ]
+        },
+        {
+            "id": 10179,
+            "name": "ヱテルナ・ガラクシア（Long Ver.）",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 694, "tick_count": 248, "hold_end_count": 96, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 1230, "tick_count": 447, "hold_end_count": 216, "scratch_hold_end_count": 81 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 1817, "tick_count": 389, "hold_end_count": 298, "scratch_hold_end_count": 195 }
                 }
             ]
         },
