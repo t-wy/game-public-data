@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-06-17T12:00:09+09:00",
-    "updatedAtTimestamp": 1750129209,
+    "updatedAt": "2025-06-19T17:00:09+09:00",
+    "updatedAtTimestamp": 1750320009,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1847,6 +1847,15 @@
             ]
         },
         {
+            "id": 197,
+            "name": "春を告げる",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 120, "time": 0.5, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
             "id": 198,
             "name": "青春サイダー",
             "mode": "Auto",
@@ -2500,6 +2509,21 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 145, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 10112,
+            "name": "マン・ハン・チュエンシー!!（Long Ver.）",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 120, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 115, "time": 6.0, "beats": [ 2, 4 ], "forced": false
+                },
+                { "bpm": 110, "time": 7.0435, "beats": [ 2, 4 ], "forced": false
+                },
+                { "bpm": 160, "time": 8.1344, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },

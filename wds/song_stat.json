@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-06-17T12:00:33+09:00",
-    "updatedAtTimestamp": 1750129233,
+    "updatedAt": "2025-06-19T17:00:33+09:00",
+    "updatedAtTimestamp": 1750320033,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2804,6 +2804,22 @@
             ]
         },
         {
+            "id": 197,
+            "name": "春を告げる",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 237, "tick_count": 69, "hold_end_count": 41, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 352, "tick_count": 76, "hold_end_count": 68, "scratch_hold_end_count": 27 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 761, "tick_count": 90, "hold_end_count": 176, "scratch_hold_end_count": 116 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 833, "tick_count": 74, "hold_end_count": 212, "scratch_hold_end_count": 123 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1076, "tick_count": 63, "hold_end_count": 282, "scratch_hold_end_count": 194 }
+                }
+            ]
+        },
+        {
             "id": 198,
             "name": "青春サイダー",
             "difficulties": [
@@ -3704,6 +3720,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1816, "tick_count": 191, "hold_end_count": 338, "scratch_hold_end_count": 210 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 2521, "tick_count": 382, "hold_end_count": 288, "scratch_hold_end_count": 161 }
+                }
+            ]
+        },
+        {
+            "id": 10112,
+            "name": "マン・ハン・チュエンシー!!（Long Ver.）",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 499, "tick_count": 188, "hold_end_count": 55, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 858, "tick_count": 242, "hold_end_count": 177, "scratch_hold_end_count": 156 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 1243, "tick_count": 169, "hold_end_count": 202, "scratch_hold_end_count": 157 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 1631, "tick_count": 155, "hold_end_count": 342, "scratch_hold_end_count": 244 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 2258, "tick_count": 178, "hold_end_count": 399, "scratch_hold_end_count": 180 }
                 }
             ]
         },
