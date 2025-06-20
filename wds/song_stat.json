@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-06-19T17:00:33+09:00",
-    "updatedAtTimestamp": 1750320033,
+    "updatedAt": "2025-06-20T17:00:33+09:00",
+    "updatedAtTimestamp": 1750406433,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3056,6 +3056,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1465, "tick_count": 265, "hold_end_count": 305, "scratch_hold_end_count": 250 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 2141, "tick_count": 415, "hold_end_count": 383, "scratch_hold_end_count": 153 }
+                }
+            ]
+        },
+        {
+            "id": 221,
+            "name": "DreamRiser",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 209, "tick_count": 117, "hold_end_count": 27, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 324, "tick_count": 153, "hold_end_count": 60, "scratch_hold_end_count": 48 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 554, "tick_count": 219, "hold_end_count": 102, "scratch_hold_end_count": 79 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 658, "tick_count": 185, "hold_end_count": 129, "scratch_hold_end_count": 86 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 692, "tick_count": 244, "hold_end_count": 118, "scratch_hold_end_count": 44 }
                 }
             ]
         },
