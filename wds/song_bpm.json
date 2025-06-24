@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-06-20T17:00:09+09:00",
-    "updatedAtTimestamp": 1750406409,
+    "updatedAt": "2025-06-24T12:00:10+09:00",
+    "updatedAtTimestamp": 1750734010,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2211,6 +2211,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 220, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 10054,
+            "name": "ひとりの夜のフィルモグラフィー（Long Ver.）",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 105, "time": 0.8571, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },

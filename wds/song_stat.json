@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-06-20T17:00:33+09:00",
-    "updatedAtTimestamp": 1750406433,
+    "updatedAt": "2025-06-24T12:00:34+09:00",
+    "updatedAtTimestamp": 1750734034,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3364,6 +3364,18 @@
                 { "difficulty": "HARD", "stat": { "note_count": 1318, "tick_count": 426, "hold_end_count": 232, "scratch_hold_end_count": 93 }
                 },
                 { "difficulty": "EXTRA", "stat": { "note_count": 1896, "tick_count": 390, "hold_end_count": 313, "scratch_hold_end_count": 182 }
+                }
+            ]
+        },
+        {
+            "id": 10054,
+            "name": "ひとりの夜のフィルモグラフィー（Long Ver.）",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 430, "tick_count": 227, "hold_end_count": 41, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 665, "tick_count": 271, "hold_end_count": 112, "scratch_hold_end_count": 54 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 890, "tick_count": 189, "hold_end_count": 136, "scratch_hold_end_count": 72 }
                 }
             ]
         },
