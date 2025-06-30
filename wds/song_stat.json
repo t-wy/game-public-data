@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-06-24T17:00:37+09:00",
-    "updatedAtTimestamp": 1750752037,
+    "updatedAt": "2025-06-30T17:00:32+09:00",
+    "updatedAtTimestamp": 1751270432,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2944,6 +2944,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 782, "tick_count": 176, "hold_end_count": 271, "scratch_hold_end_count": 195 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 928, "tick_count": 223, "hold_end_count": 193, "scratch_hold_end_count": 85 }
+                }
+            ]
+        },
+        {
+            "id": 206,
+            "name": "SECRET TRAINING!!!!",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 299, "tick_count": 100, "hold_end_count": 35, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 469, "tick_count": 156, "hold_end_count": 98, "scratch_hold_end_count": 76 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 760, "tick_count": 180, "hold_end_count": 190, "scratch_hold_end_count": 136 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 1069, "tick_count": 105, "hold_end_count": 299, "scratch_hold_end_count": 251 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1471, "tick_count": 185, "hold_end_count": 227, "scratch_hold_end_count": 140 }
                 }
             ]
         },

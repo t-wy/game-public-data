@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-06-24T17:00:09+09:00",
-    "updatedAtTimestamp": 1750752009,
+    "updatedAt": "2025-06-30T17:00:09+09:00",
+    "updatedAtTimestamp": 1751270409,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1924,6 +1924,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 116, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 206,
+            "name": "SECRET TRAINING!!!!",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 200, "time": 0.3, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
