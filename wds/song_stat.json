@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-07-10T12:00:33+09:00",
-    "updatedAtTimestamp": 1752116433,
+    "updatedAt": "2025-07-10T17:00:33+09:00",
+    "updatedAtTimestamp": 1752134433,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2960,6 +2960,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1069, "tick_count": 105, "hold_end_count": 299, "scratch_hold_end_count": 251 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1471, "tick_count": 185, "hold_end_count": 227, "scratch_hold_end_count": 140 }
+                }
+            ]
+        },
+        {
+            "id": 207,
+            "name": "氷雨に舞う火の鳥",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 273, "tick_count": 171, "hold_end_count": 35, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 397, "tick_count": 211, "hold_end_count": 77, "scratch_hold_end_count": 57 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 630, "tick_count": 219, "hold_end_count": 104, "scratch_hold_end_count": 60 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 772, "tick_count": 130, "hold_end_count": 116, "scratch_hold_end_count": 77 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 999, "tick_count": 186, "hold_end_count": 134, "scratch_hold_end_count": 59 }
                 }
             ]
         },

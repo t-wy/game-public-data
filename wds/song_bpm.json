@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-06-30T17:00:09+09:00",
-    "updatedAtTimestamp": 1751270409,
+    "updatedAt": "2025-07-10T17:00:09+09:00",
+    "updatedAtTimestamp": 1752134409,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1933,6 +1933,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 200, "time": 0.3, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 207,
+            "name": "氷雨に舞う火の鳥",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 176, "time": 0.6818, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
