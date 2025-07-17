@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-07-10T17:00:33+09:00",
-    "updatedAtTimestamp": 1752134433,
+    "updatedAt": "2025-07-17T17:00:37+09:00",
+    "updatedAtTimestamp": 1752739237,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3320,6 +3320,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1895, "tick_count": 457, "hold_end_count": 427, "scratch_hold_end_count": 344 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 2231, "tick_count": 633, "hold_end_count": 374, "scratch_hold_end_count": 251 }
+                }
+            ]
+        },
+        {
+            "id": 10044,
+            "name": "アタシのアシタはアタシがキメル（Long Ver.）",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 548, "tick_count": 197, "hold_end_count": 63, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 834, "tick_count": 235, "hold_end_count": 86, "scratch_hold_end_count": 32 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 1335, "tick_count": 321, "hold_end_count": 162, "scratch_hold_end_count": 90 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 1848, "tick_count": 156, "hold_end_count": 333, "scratch_hold_end_count": 258 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 2624, "tick_count": 401, "hold_end_count": 583, "scratch_hold_end_count": 343 }
                 }
             ]
         },

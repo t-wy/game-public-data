@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-07-10T17:00:09+09:00",
-    "updatedAtTimestamp": 1752134409,
+    "updatedAt": "2025-07-17T17:00:11+09:00",
+    "updatedAtTimestamp": 1752739211,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2182,6 +2182,35 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 134, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 10044,
+            "name": "アタシのアシタはアタシがキメル（Long Ver.）",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 182, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 140, "time": 23.7363, "beats": [ 2, 4 ], "forced": false
+                },
+                { "bpm": 182, "time": 39.1648, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 140, "time": 82.6813, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 182, "time": 98.1099, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 140, "time": 109.978, "beats": [ 3, 4 ], "forced": false
+                },
+                { "bpm": 140, "time": 111.2637, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 160, "time": 128.4066, "beats": [ 4, 4 ], "forced": true
+                },
+                { "bpm": 160, "time": 131.4066, "beats": [ 2, 4 ], "forced": false
+                },
+                { "bpm": 182, "time": 132.1566, "beats": [ 2, 4 ], "forced": false
+                },
+                { "bpm": 182, "time": 132.8159, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
