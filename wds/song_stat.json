@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-07-17T17:00:37+09:00",
-    "updatedAtTimestamp": 1752739237,
+    "updatedAt": "2025-07-19T17:00:32+09:00",
+    "updatedAtTimestamp": 1752912032,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3008,6 +3008,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1753, "tick_count": 286, "hold_end_count": 262, "scratch_hold_end_count": 202 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 2311, "tick_count": 385, "hold_end_count": 190, "scratch_hold_end_count": 69 }
+                }
+            ]
+        },
+        {
+            "id": 211,
+            "name": "甲賀忍法帖",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 275, "tick_count": 141, "hold_end_count": 27, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 415, "tick_count": 182, "hold_end_count": 99, "scratch_hold_end_count": 79 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 733, "tick_count": 300, "hold_end_count": 175, "scratch_hold_end_count": 132 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 803, "tick_count": 122, "hold_end_count": 159, "scratch_hold_end_count": 125 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1170, "tick_count": 241, "hold_end_count": 178, "scratch_hold_end_count": 86 }
                 }
             ]
         },

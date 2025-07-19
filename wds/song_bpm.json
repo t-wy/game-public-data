@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-07-17T17:00:11+09:00",
-    "updatedAtTimestamp": 1752739211,
+    "updatedAt": "2025-07-19T17:00:09+09:00",
+    "updatedAtTimestamp": 1752912009,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1974,6 +1974,15 @@
                 { "bpm": 250, "time": 116.6008, "beats": [ 4, 4 ], "forced": false
                 },
                 { "bpm": 260, "time": 117.5608, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 211,
+            "name": "甲賀忍法帖",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 178, "time": 0.1685, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
