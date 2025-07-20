@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-07-19T17:00:32+09:00",
-    "updatedAtTimestamp": 1752912032,
+    "updatedAt": "2025-07-20T17:00:34+09:00",
+    "updatedAtTimestamp": 1752998434,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3136,6 +3136,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 716, "tick_count": 141, "hold_end_count": 182, "scratch_hold_end_count": 133 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 901, "tick_count": 217, "hold_end_count": 179, "scratch_hold_end_count": 100 }
+                }
+            ]
+        },
+        {
+            "id": 223,
+            "name": "愛に生きる喜びを",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 235, "tick_count": 129, "hold_end_count": 27, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 381, "tick_count": 167, "hold_end_count": 87, "scratch_hold_end_count": 53 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 678, "tick_count": 246, "hold_end_count": 163, "scratch_hold_end_count": 119 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 771, "tick_count": 259, "hold_end_count": 222, "scratch_hold_end_count": 160 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1115, "tick_count": 324, "hold_end_count": 223, "scratch_hold_end_count": 62 }
                 }
             ]
         },

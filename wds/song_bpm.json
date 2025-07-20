@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-07-19T17:00:09+09:00",
-    "updatedAtTimestamp": 1752912009,
+    "updatedAt": "2025-07-20T17:00:09+09:00",
+    "updatedAtTimestamp": 1752998409,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2046,6 +2046,23 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 159, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 223,
+            "name": "愛に生きる喜びを",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 98, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 98, "time": 24.4898, "beats": [ 2, 4 ], "forced": false
+                },
+                { "bpm": 120, "time": 25.7143, "beats": [ 5, 4 ], "forced": false
+                },
+                { "bpm": 120, "time": 28.2143, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 98, "time": 112.2143, "beats": [ 3, 4 ], "forced": true
                 }
             ]
         },
