@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-07-10T15:00:05+09:00",
-    "updatedAtTimestamp": 1752127205,
+    "updatedAt": "2025-07-20T15:00:05+09:00",
+    "updatedAtTimestamp": 1752991205,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -270,6 +270,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 210, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "過純性ブリーチ",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 170, "time": 0.0, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
