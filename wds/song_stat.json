@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-07-20T17:00:34+09:00",
-    "updatedAtTimestamp": 1752998434,
+    "updatedAt": "2025-07-26T17:00:37+09:00",
+    "updatedAtTimestamp": 1753516837,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3156,6 +3156,22 @@
             ]
         },
         {
+            "id": 236,
+            "name": "カルペ・ディエム",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 701, "tick_count": 308, "hold_end_count": 55, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 978, "tick_count": 399, "hold_end_count": 151, "scratch_hold_end_count": 83 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 1444, "tick_count": 521, "hold_end_count": 262, "scratch_hold_end_count": 153 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 2098, "tick_count": 399, "hold_end_count": 710, "scratch_hold_end_count": 565 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 2849, "tick_count": 570, "hold_end_count": 834, "scratch_hold_end_count": 685 }
+                }
+            ]
+        },
+        {
             "id": 249,
             "name": "Stellarium Collection Vol.1",
             "difficulties": [
@@ -3416,6 +3432,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1754, "tick_count": 283, "hold_end_count": 331, "scratch_hold_end_count": 230 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 2164, "tick_count": 343, "hold_end_count": 326, "scratch_hold_end_count": 143 }
+                }
+            ]
+        },
+        {
+            "id": 10048,
+            "name": "I Wanna（Long Ver.）",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 858, "tick_count": 247, "hold_end_count": 87, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 1548, "tick_count": 466, "hold_end_count": 269, "scratch_hold_end_count": 97 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 2252, "tick_count": 309, "hold_end_count": 222, "scratch_hold_end_count": 138 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 2605, "tick_count": 214, "hold_end_count": 376, "scratch_hold_end_count": 305 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 3511, "tick_count": 390, "hold_end_count": 297, "scratch_hold_end_count": 142 }
                 }
             ]
         },

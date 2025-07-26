@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-07-20T17:00:09+09:00",
-    "updatedAtTimestamp": 1752998409,
+    "updatedAt": "2025-07-26T17:00:12+09:00",
+    "updatedAtTimestamp": 1753516812,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2067,6 +2067,15 @@
             ]
         },
         {
+            "id": 236,
+            "name": "カルペ・ディエム",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 264, "time": 0.4545, "beats": [ 3, 4 ], "forced": false
+                }
+            ]
+        },
+        {
             "id": 249,
             "name": "Stellarium Collection Vol.1",
             "mode": "Auto",
@@ -2266,6 +2275,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 142, "time": 0.6338, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 10048,
+            "name": "I Wanna（Long Ver.）",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 200, "time": 0.0, "beats": [ 2, 4 ], "forced": false
                 }
             ]
         },
