@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-07-26T17:00:37+09:00",
-    "updatedAtTimestamp": 1753516837,
+    "updatedAt": "2025-07-31T17:00:38+09:00",
+    "updatedAtTimestamp": 1753948838,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3152,6 +3152,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 771, "tick_count": 259, "hold_end_count": 222, "scratch_hold_end_count": 160 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1115, "tick_count": 324, "hold_end_count": 223, "scratch_hold_end_count": 62 }
+                }
+            ]
+        },
+        {
+            "id": 224,
+            "name": "黄昏時、夏の余韻",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 300, "tick_count": 151, "hold_end_count": 33, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 482, "tick_count": 197, "hold_end_count": 105, "scratch_hold_end_count": 77 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 820, "tick_count": 317, "hold_end_count": 156, "scratch_hold_end_count": 101 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 891, "tick_count": 165, "hold_end_count": 158, "scratch_hold_end_count": 130 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1258, "tick_count": 276, "hold_end_count": 290, "scratch_hold_end_count": 115 }
                 }
             ]
         },
