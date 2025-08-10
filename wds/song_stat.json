@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-08-09T17:00:36+09:00",
-    "updatedAtTimestamp": 1754726436,
+    "updatedAt": "2025-08-10T17:00:36+09:00",
+    "updatedAtTimestamp": 1754812836,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3168,6 +3168,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 891, "tick_count": 165, "hold_end_count": 158, "scratch_hold_end_count": 130 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1258, "tick_count": 276, "hold_end_count": 290, "scratch_hold_end_count": 115 }
+                }
+            ]
+        },
+        {
+            "id": 225,
+            "name": "VIVID BIT AT HOME！",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 305, "tick_count": 140, "hold_end_count": 36, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 486, "tick_count": 187, "hold_end_count": 100, "scratch_hold_end_count": 61 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 859, "tick_count": 270, "hold_end_count": 208, "scratch_hold_end_count": 152 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 1060, "tick_count": 202, "hold_end_count": 205, "scratch_hold_end_count": 146 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1444, "tick_count": 366, "hold_end_count": 225, "scratch_hold_end_count": 100 }
                 }
             ]
         },
