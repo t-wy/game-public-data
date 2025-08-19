@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-08-10T17:00:36+09:00",
-    "updatedAtTimestamp": 1754812836,
+    "updatedAt": "2025-08-19T17:00:35+09:00",
+    "updatedAtTimestamp": 1755590435,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3024,6 +3024,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 803, "tick_count": 122, "hold_end_count": 159, "scratch_hold_end_count": 125 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1170, "tick_count": 241, "hold_end_count": 178, "scratch_hold_end_count": 86 }
+                }
+            ]
+        },
+        {
+            "id": 212,
+            "name": "ファンサ",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 252, "tick_count": 137, "hold_end_count": 28, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 341, "tick_count": 160, "hold_end_count": 59, "scratch_hold_end_count": 43 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 508, "tick_count": 170, "hold_end_count": 112, "scratch_hold_end_count": 72 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 720, "tick_count": 170, "hold_end_count": 131, "scratch_hold_end_count": 80 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 936, "tick_count": 235, "hold_end_count": 201, "scratch_hold_end_count": 127 }
                 }
             ]
         },

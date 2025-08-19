@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-08-11T00:00:09+09:00",
-    "updatedAtTimestamp": 1754838009,
+    "updatedAt": "2025-08-19T17:00:09+09:00",
+    "updatedAtTimestamp": 1755590409,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1983,6 +1983,17 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 178, "time": 0.1685, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 212,
+            "name": "ファンサ",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 152, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 176, "time": 15.7895, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
