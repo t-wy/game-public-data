@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-08-19T17:00:09+09:00",
-    "updatedAtTimestamp": 1755590409,
+    "updatedAt": "2025-08-20T17:00:09+09:00",
+    "updatedAtTimestamp": 1755676809,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2094,6 +2094,15 @@
                 { "bpm": 177, "time": 0.0, "beats": [ 4, 4 ], "forced": false
                 },
                 { "bpm": 238, "time": 10.8475, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 227,
+            "name": "星に出逢えた夜に歌って",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 96, "time": 0.9375, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
