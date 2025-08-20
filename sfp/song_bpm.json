@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-08-16T12:00:05+09:00",
-    "updatedAtTimestamp": 1755313205,
+    "updatedAt": "2025-08-20T15:00:05+09:00",
+    "updatedAtTimestamp": 1755669605,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1169,6 +1169,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 220, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 176,
+            "name": "1/3",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 152, "time": 0.0, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
