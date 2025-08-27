@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-08-20T15:00:05+09:00",
-    "updatedAtTimestamp": 1755669605,
+    "updatedAt": "2025-08-27T12:00:05+09:00",
+    "updatedAtTimestamp": 1756263605,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -526,6 +526,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 177, "time": 0.0, "beats": [ 2, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "name": "純白トロイメライ",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 180, "time": 0.3333, "beats": [ 2, 4 ], "forced": false
                 }
             ]
         },
