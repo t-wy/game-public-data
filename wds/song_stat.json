@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-08-20T17:00:34+09:00",
-    "updatedAtTimestamp": 1755676834,
+    "updatedAt": "2025-08-31T17:00:37+09:00",
+    "updatedAtTimestamp": 1756627237,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3200,6 +3200,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1060, "tick_count": 202, "hold_end_count": 205, "scratch_hold_end_count": 146 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1444, "tick_count": 366, "hold_end_count": 225, "scratch_hold_end_count": 100 }
+                }
+            ]
+        },
+        {
+            "id": 226,
+            "name": "ナツのキオクのナイショのホンネ！",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 303, "tick_count": 99, "hold_end_count": 25, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 517, "tick_count": 144, "hold_end_count": 91, "scratch_hold_end_count": 64 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 894, "tick_count": 284, "hold_end_count": 207, "scratch_hold_end_count": 152 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 1199, "tick_count": 244, "hold_end_count": 247, "scratch_hold_end_count": 157 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1557, "tick_count": 212, "hold_end_count": 354, "scratch_hold_end_count": 165 }
                 }
             ]
         },
