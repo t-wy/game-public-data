@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-09-09T17:00:35+09:00",
-    "updatedAtTimestamp": 1757404835,
+    "updatedAt": "2025-09-10T17:00:33+09:00",
+    "updatedAtTimestamp": 1757491233,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3232,6 +3232,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 630, "tick_count": 130, "hold_end_count": 162, "scratch_hold_end_count": 95 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 696, "tick_count": 238, "hold_end_count": 154, "scratch_hold_end_count": 67 }
+                }
+            ]
+        },
+        {
+            "id": 229,
+            "name": "陰陽幻燈譚",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 413, "tick_count": 158, "hold_end_count": 54, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 590, "tick_count": 193, "hold_end_count": 134, "scratch_hold_end_count": 79 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 905, "tick_count": 162, "hold_end_count": 141, "scratch_hold_end_count": 86 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 1184, "tick_count": 81, "hold_end_count": 211, "scratch_hold_end_count": 106 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1640, "tick_count": 136, "hold_end_count": 249, "scratch_hold_end_count": 116 }
                 }
             ]
         },
