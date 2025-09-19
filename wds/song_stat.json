@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-09-10T17:00:33+09:00",
-    "updatedAtTimestamp": 1757491233,
+    "updatedAt": "2025-09-19T17:00:41+09:00",
+    "updatedAtTimestamp": 1758268841,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3040,6 +3040,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 720, "tick_count": 170, "hold_end_count": 131, "scratch_hold_end_count": 80 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 936, "tick_count": 235, "hold_end_count": 201, "scratch_hold_end_count": 127 }
+                }
+            ]
+        },
+        {
+            "id": 213,
+            "name": "Bling-Bang-Bang-Born",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 192, "tick_count": 65, "hold_end_count": 15, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 374, "tick_count": 78, "hold_end_count": 103, "scratch_hold_end_count": 75 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 647, "tick_count": 110, "hold_end_count": 149, "scratch_hold_end_count": 106 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 762, "tick_count": 56, "hold_end_count": 168, "scratch_hold_end_count": 124 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 957, "tick_count": 119, "hold_end_count": 215, "scratch_hold_end_count": 135 }
                 }
             ]
         },
