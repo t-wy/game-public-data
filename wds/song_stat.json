@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-09-19T17:00:41+09:00",
-    "updatedAtTimestamp": 1758268841,
+    "updatedAt": "2025-09-20T17:00:35+09:00",
+    "updatedAtTimestamp": 1758355235,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3264,6 +3264,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1184, "tick_count": 81, "hold_end_count": 211, "scratch_hold_end_count": 106 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1640, "tick_count": 136, "hold_end_count": 249, "scratch_hold_end_count": 116 }
+                }
+            ]
+        },
+        {
+            "id": 230,
+            "name": "STARRY STORY！",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 227, "tick_count": 72, "hold_end_count": 20, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 461, "tick_count": 168, "hold_end_count": 96, "scratch_hold_end_count": 44 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 754, "tick_count": 263, "hold_end_count": 187, "scratch_hold_end_count": 144 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 919, "tick_count": 151, "hold_end_count": 171, "scratch_hold_end_count": 84 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1132, "tick_count": 246, "hold_end_count": 245, "scratch_hold_end_count": 86 }
                 }
             ]
         },
