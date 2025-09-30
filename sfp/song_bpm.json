@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-09-25T12:00:05+09:00",
-    "updatedAtTimestamp": 1758769205,
+    "updatedAt": "2025-10-01T00:00:14+09:00",
+    "updatedAtTimestamp": 1759244414,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1196,6 +1196,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 124, "time": 0.0, "beats": [ 2, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 168,
+            "name": "キラピコ.exe",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 182, "time": 0.0, "beats": [ 2, 4 ], "forced": false
                 }
             ]
         },

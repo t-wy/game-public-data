@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-09-20T17:00:35+09:00",
-    "updatedAtTimestamp": 1758355235,
+    "updatedAt": "2025-10-01T00:01:04+09:00",
+    "updatedAtTimestamp": 1759244464,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2976,6 +2976,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 772, "tick_count": 130, "hold_end_count": 116, "scratch_hold_end_count": 77 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 999, "tick_count": 186, "hold_end_count": 134, "scratch_hold_end_count": 59 }
+                }
+            ]
+        },
+        {
+            "id": 208,
+            "name": "アンチ・サニーデイズ・カレンダー",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 173, "tick_count": 70, "hold_end_count": 20, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 338, "tick_count": 109, "hold_end_count": 87, "scratch_hold_end_count": 58 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 536, "tick_count": 111, "hold_end_count": 145, "scratch_hold_end_count": 107 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 666, "tick_count": 76, "hold_end_count": 165, "scratch_hold_end_count": 98 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 889, "tick_count": 135, "hold_end_count": 185, "scratch_hold_end_count": 75 }
                 }
             ]
         },
