@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-10-09T17:00:35+09:00",
-    "updatedAtTimestamp": 1759996835,
+    "updatedAt": "2025-10-10T17:00:37+09:00",
+    "updatedAtTimestamp": 1760083237,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3264,6 +3264,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 630, "tick_count": 130, "hold_end_count": 162, "scratch_hold_end_count": 95 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 696, "tick_count": 238, "hold_end_count": 154, "scratch_hold_end_count": 67 }
+                }
+            ]
+        },
+        {
+            "id": 228,
+            "name": "Gazing Dialogue Play",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 275, "tick_count": 169, "hold_end_count": 29, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 483, "tick_count": 257, "hold_end_count": 86, "scratch_hold_end_count": 61 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 802, "tick_count": 317, "hold_end_count": 176, "scratch_hold_end_count": 96 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 885, "tick_count": 229, "hold_end_count": 159, "scratch_hold_end_count": 126 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1243, "tick_count": 309, "hold_end_count": 177, "scratch_hold_end_count": 23 }
                 }
             ]
         },
