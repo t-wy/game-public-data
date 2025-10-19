@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-10-10T17:00:37+09:00",
-    "updatedAtTimestamp": 1760083237,
+    "updatedAt": "2025-10-19T17:00:38+09:00",
+    "updatedAtTimestamp": 1760860838,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3152,6 +3152,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1465, "tick_count": 265, "hold_end_count": 305, "scratch_hold_end_count": 250 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 2141, "tick_count": 415, "hold_end_count": 383, "scratch_hold_end_count": 153 }
+                }
+            ]
+        },
+        {
+            "id": 220,
+            "name": "ロマンスの神様",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 188, "tick_count": 92, "hold_end_count": 20, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 311, "tick_count": 84, "hold_end_count": 63, "scratch_hold_end_count": 37 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 532, "tick_count": 130, "hold_end_count": 135, "scratch_hold_end_count": 88 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 606, "tick_count": 92, "hold_end_count": 139, "scratch_hold_end_count": 97 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 794, "tick_count": 105, "hold_end_count": 181, "scratch_hold_end_count": 65 }
                 }
             ]
         },

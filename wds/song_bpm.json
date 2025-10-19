@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-10-10T17:00:12+09:00",
-    "updatedAtTimestamp": 1760083212,
+    "updatedAt": "2025-10-19T17:00:10+09:00",
+    "updatedAtTimestamp": 1760860810,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2057,6 +2057,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 180, "time": 0.6667, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 220,
+            "name": "ロマンスの神様",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 125.9, "time": 0.0, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
