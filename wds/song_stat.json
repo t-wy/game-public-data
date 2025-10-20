@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-10-19T17:00:38+09:00",
-    "updatedAtTimestamp": 1760860838,
+    "updatedAt": "2025-10-20T17:00:34+09:00",
+    "updatedAtTimestamp": 1760947234,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3328,6 +3328,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 919, "tick_count": 151, "hold_end_count": 171, "scratch_hold_end_count": 84 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1132, "tick_count": 246, "hold_end_count": 245, "scratch_hold_end_count": 86 }
+                }
+            ]
+        },
+        {
+            "id": 232,
+            "name": "五条大橋の妖しき化生",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 285, "tick_count": 115, "hold_end_count": 27, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 446, "tick_count": 159, "hold_end_count": 89, "scratch_hold_end_count": 66 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 817, "tick_count": 249, "hold_end_count": 182, "scratch_hold_end_count": 123 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 1008, "tick_count": 150, "hold_end_count": 190, "scratch_hold_end_count": 152 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1189, "tick_count": 127, "hold_end_count": 195, "scratch_hold_end_count": 39 }
                 }
             ]
         },
