@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-10-20T17:00:10+09:00",
-    "updatedAtTimestamp": 1760947210,
+    "updatedAt": "2025-10-31T17:00:10+09:00",
+    "updatedAtTimestamp": 1761897610,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2175,6 +2175,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 169, "time": 0.5325, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 233,
+            "name": "Aschenputtel",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 216, "time": 0.0, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },

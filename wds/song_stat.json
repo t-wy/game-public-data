@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-10-20T17:00:34+09:00",
-    "updatedAtTimestamp": 1760947234,
+    "updatedAt": "2025-10-31T17:00:40+09:00",
+    "updatedAtTimestamp": 1761897640,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3344,6 +3344,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1008, "tick_count": 150, "hold_end_count": 190, "scratch_hold_end_count": 152 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1189, "tick_count": 127, "hold_end_count": 195, "scratch_hold_end_count": 39 }
+                }
+            ]
+        },
+        {
+            "id": 233,
+            "name": "Aschenputtel",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 252, "tick_count": 146, "hold_end_count": 22, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 529, "tick_count": 258, "hold_end_count": 108, "scratch_hold_end_count": 77 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 868, "tick_count": 332, "hold_end_count": 159, "scratch_hold_end_count": 107 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 945, "tick_count": 184, "hold_end_count": 158, "scratch_hold_end_count": 100 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1291, "tick_count": 217, "hold_end_count": 210, "scratch_hold_end_count": 96 }
                 }
             ]
         },
