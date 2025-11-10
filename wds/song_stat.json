@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-11-09T17:00:43+09:00",
-    "updatedAtTimestamp": 1762675243,
+    "updatedAt": "2025-11-10T17:00:38+09:00",
+    "updatedAtTimestamp": 1762761638,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3328,6 +3328,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 919, "tick_count": 151, "hold_end_count": 171, "scratch_hold_end_count": 84 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1132, "tick_count": 246, "hold_end_count": 245, "scratch_hold_end_count": 86 }
+                }
+            ]
+        },
+        {
+            "id": 231,
+            "name": "ハロー・マイ・ロケット",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 343, "tick_count": 171, "hold_end_count": 45, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 601, "tick_count": 253, "hold_end_count": 126, "scratch_hold_end_count": 77 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 850, "tick_count": 247, "hold_end_count": 190, "scratch_hold_end_count": 124 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 1075, "tick_count": 251, "hold_end_count": 197, "scratch_hold_end_count": 124 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1461, "tick_count": 382, "hold_end_count": 245, "scratch_hold_end_count": 104 }
                 }
             ]
         },

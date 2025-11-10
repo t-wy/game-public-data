@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-10-31T17:00:10+09:00",
-    "updatedAtTimestamp": 1761897610,
+    "updatedAt": "2025-11-10T17:00:10+09:00",
+    "updatedAtTimestamp": 1762761610,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2166,6 +2166,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 185, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 231,
+            "name": "ハロー・マイ・ロケット",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 178, "time": 0.3371, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
