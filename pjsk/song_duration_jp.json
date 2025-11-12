@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-11-09T00:00:48+09:00",
-    "updatedAtTimestamp": 1762614048,
+    "updatedAt": "2025-11-12T15:00:52+09:00",
+    "updatedAtTimestamp": 1762927252,
     "message": "The duration values stated here refer to the playing time of the song file in the default vocal version.",
     "data": {
         "1": 123.2144217687075,
@@ -605,6 +605,7 @@
         "674": 315.6614058956916,
         "675": 323.8875891953207,
         "676": 279.0203174603175,
-        "677": 120.42246707440503
+        "677": 120.42246707440503,
+        "678": 99.66468738763511
     }
 }
