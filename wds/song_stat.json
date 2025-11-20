@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-11-19T17:00:44+09:00",
-    "updatedAtTimestamp": 1763539244,
+    "updatedAt": "2025-11-20T17:00:48+09:00",
+    "updatedAtTimestamp": 1763625648,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3408,6 +3408,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 2098, "tick_count": 399, "hold_end_count": 710, "scratch_hold_end_count": 565 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 2849, "tick_count": 570, "hold_end_count": 834, "scratch_hold_end_count": 685 }
+                }
+            ]
+        },
+        {
+            "id": 237,
+            "name": "誰ガ為ノサダメ",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 206, "tick_count": 85, "hold_end_count": 22, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 366, "tick_count": 137, "hold_end_count": 82, "scratch_hold_end_count": 49 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 657, "tick_count": 225, "hold_end_count": 142, "scratch_hold_end_count": 89 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 755, "tick_count": 138, "hold_end_count": 149, "scratch_hold_end_count": 81 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 943, "tick_count": 150, "hold_end_count": 161, "scratch_hold_end_count": 60 }
                 }
             ]
         },
