@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-11-20T15:00:05+09:00",
-    "updatedAtTimestamp": 1763618405,
+    "updatedAt": "2025-11-22T12:00:05+09:00",
+    "updatedAtTimestamp": 1763780405,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1303,6 +1303,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 194, "time": 0.0, "beats": [ 2, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 201,
+            "name": "KAWAII♡めたもる交響曲",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 178, "time": 0.0, "beats": [ 2, 4 ], "forced": false
                 }
             ]
         }
