@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-11-28T12:00:06+09:00",
-    "updatedAtTimestamp": 1764298806,
+    "updatedAt": "2025-11-29T12:00:05+09:00",
+    "updatedAtTimestamp": 1764385205,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1312,6 +1312,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 135, "time": 0.0, "beats": [ 2, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 200,
+            "name": "Sparkle",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 186, "time": 0.0, "beats": [ 2, 4 ], "forced": false
                 }
             ]
         },
