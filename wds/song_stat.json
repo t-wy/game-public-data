@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-11-20T17:00:48+09:00",
-    "updatedAtTimestamp": 1763625648,
+    "updatedAt": "2025-11-30T17:00:46+09:00",
+    "updatedAtTimestamp": 1764489646,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3424,6 +3424,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 755, "tick_count": 138, "hold_end_count": 149, "scratch_hold_end_count": 81 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 943, "tick_count": 150, "hold_end_count": 161, "scratch_hold_end_count": 60 }
+                }
+            ]
+        },
+        {
+            "id": 238,
+            "name": "Vivid-day Happy-day Boost!",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 298, "tick_count": 131, "hold_end_count": 37, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 508, "tick_count": 194, "hold_end_count": 108, "scratch_hold_end_count": 84 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 812, "tick_count": 217, "hold_end_count": 180, "scratch_hold_end_count": 130 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 1152, "tick_count": 147, "hold_end_count": 292, "scratch_hold_end_count": 205 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1623, "tick_count": 183, "hold_end_count": 358, "scratch_hold_end_count": 247 }
                 }
             ]
         },
