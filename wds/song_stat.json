@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-12-09T17:00:53+09:00",
-    "updatedAtTimestamp": 1765267253,
+    "updatedAt": "2025-12-11T00:00:54+09:00",
+    "updatedAtTimestamp": 1765378854,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3440,6 +3440,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1152, "tick_count": 147, "hold_end_count": 292, "scratch_hold_end_count": 205 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1623, "tick_count": 183, "hold_end_count": 358, "scratch_hold_end_count": 247 }
+                }
+            ]
+        },
+        {
+            "id": 239,
+            "name": "ヴィヴァラヰタ",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 385, "tick_count": 198, "hold_end_count": 41, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 571, "tick_count": 209, "hold_end_count": 92, "scratch_hold_end_count": 59 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 951, "tick_count": 278, "hold_end_count": 181, "scratch_hold_end_count": 122 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 1173, "tick_count": 145, "hold_end_count": 239, "scratch_hold_end_count": 186 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1539, "tick_count": 210, "hold_end_count": 162, "scratch_hold_end_count": 80 }
                 }
             ]
         },
