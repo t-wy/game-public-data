@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-12-11T00:00:54+09:00",
-    "updatedAtTimestamp": 1765378854,
+    "updatedAt": "2025-12-19T17:00:47+09:00",
+    "updatedAtTimestamp": 1766131247,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3456,6 +3456,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 1173, "tick_count": 145, "hold_end_count": 239, "scratch_hold_end_count": 186 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1539, "tick_count": 210, "hold_end_count": 162, "scratch_hold_end_count": 80 }
+                }
+            ]
+        },
+        {
+            "id": 240,
+            "name": "This game",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 248, "tick_count": 94, "hold_end_count": 34, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 442, "tick_count": 142, "hold_end_count": 85, "scratch_hold_end_count": 36 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 736, "tick_count": 147, "hold_end_count": 138, "scratch_hold_end_count": 65 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 921, "tick_count": 125, "hold_end_count": 181, "scratch_hold_end_count": 95 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1242, "tick_count": 227, "hold_end_count": 247, "scratch_hold_end_count": 104 }
                 }
             ]
         },
