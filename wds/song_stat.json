@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-12-19T17:00:47+09:00",
-    "updatedAtTimestamp": 1766131247,
+    "updatedAt": "2025-12-20T17:00:51+09:00",
+    "updatedAtTimestamp": 1766217651,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3472,6 +3472,22 @@
                 { "difficulty": "STELLA", "stat": { "note_count": 921, "tick_count": 125, "hold_end_count": 181, "scratch_hold_end_count": 95 }
                 },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1242, "tick_count": 227, "hold_end_count": 247, "scratch_hold_end_count": 104 }
+                }
+            ]
+        },
+        {
+            "id": 241,
+            "name": "テアトルム・アストラーレ",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 300, "tick_count": 162, "hold_end_count": 30, "scratch_hold_end_count": 0 }
+                },
+                { "difficulty": "HARD", "stat": { "note_count": 550, "tick_count": 227, "hold_end_count": 129, "scratch_hold_end_count": 60 }
+                },
+                { "difficulty": "EXTRA", "stat": { "note_count": 899, "tick_count": 346, "hold_end_count": 232, "scratch_hold_end_count": 163 }
+                },
+                { "difficulty": "STELLA", "stat": { "note_count": 976, "tick_count": 169, "hold_end_count": 188, "scratch_hold_end_count": 125 }
+                },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1310, "tick_count": 309, "hold_end_count": 172, "scratch_hold_end_count": 48 }
                 }
             ]
         },

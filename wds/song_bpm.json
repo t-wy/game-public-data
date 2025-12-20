@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-12-19T17:00:11+09:00",
-    "updatedAtTimestamp": 1766131211,
+    "updatedAt": "2025-12-20T17:00:14+09:00",
+    "updatedAtTimestamp": 1766217614,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2247,6 +2247,15 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 147, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 241,
+            "name": "テアトルム・アストラーレ",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 184, "time": 0.587, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         },
