@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-12-24T12:00:06+09:00",
-    "updatedAtTimestamp": 1766545206,
+    "updatedAt": "2025-12-28T00:00:07+09:00",
+    "updatedAtTimestamp": 1766847607,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1366,6 +1366,41 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 141, "time": 0.0, "beats": [ 2, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 204,
+            "name": "銀翼のアレジアンス -blade of truth-",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 147, "time": 0.0, "beats": [ 2, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 206,
+            "name": "運命前夜",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 142, "time": 0.0, "beats": [ 2, 4 ], "forced": false
+                },
+                { "bpm": 155, "time": 38.8732, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 220, "time": 59.0023, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 87.9894, "time": 60.0932, "beats": [ 2, 4 ], "forced": false
+                },
+                { "bpm": 180, "time": 61.457, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 209,
+            "name": "銀翼のアヴニール -become the brave-",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 228, "time": 0.0, "beats": [ 4, 4 ], "forced": false
                 }
             ]
         }
