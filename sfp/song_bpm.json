@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-12-28T00:00:07+09:00",
-    "updatedAtTimestamp": 1766847607,
+    "updatedAt": "2025-12-29T00:00:05+09:00",
+    "updatedAtTimestamp": 1766934005,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1379,6 +1379,15 @@
             ]
         },
         {
+            "id": 205,
+            "name": "メモワール・アンタクト",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 176, "time": 0.3409, "beats": [ 2, 4 ], "forced": false
+                }
+            ]
+        },
+        {
             "id": 206,
             "name": "運命前夜",
             "mode": "Auto",
@@ -1392,6 +1401,74 @@
                 { "bpm": 87.9894, "time": 60.0932, "beats": [ 2, 4 ], "forced": false
                 },
                 { "bpm": 180, "time": 61.457, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 207,
+            "name": "月影のアンシェネ",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 156, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                }
+            ]
+        },
+        {
+            "id": 208,
+            "name": "Once Upon a Secret",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 144, "time": 0.0, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 142, "time": 7.5, "beats": [ 4, 4 ], "forced": true
+                },
+                { "bpm": 36, "time": 13.4154, "beats": [ 2, 4 ], "forced": true
+                },
+                { "bpm": 152.5941, "time": 18.3605, "beats": [ 9, 8 ], "forced": true
+                },
+                { "bpm": 134, "time": 21.6821, "beats": [ 9, 8 ], "forced": true
+                },
+                { "bpm": 71, "time": 22.5894, "beats": [ 1, 4 ], "forced": true
+                },
+                { "bpm": 146, "time": 23.4345, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 144, "time": 25.0783, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 150, "time": 26.745, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 150, "time": 28.345, "beats": [ 3, 4 ], "forced": false
+                },
+                { "bpm": 72, "time": 30.0233, "beats": [ 4, 4 ], "forced": true
+                },
+                { "bpm": 124, "time": 41.7625, "beats": [ 4, 4 ], "forced": true
+                },
+                { "bpm": 176, "time": 45.5056, "beats": [ 5, 8 ], "forced": true
+                },
+                { "bpm": 146, "time": 46.3579, "beats": [ 9, 8 ], "forced": false
+                },
+                { "bpm": 146, "time": 48.2072, "beats": [ 7, 8 ], "forced": false
+                },
+                { "bpm": 192, "time": 49.6455, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 74, "time": 54.6455, "beats": [ 3, 4 ], "forced": false
+                },
+                { "bpm": 70, "time": 57.078, "beats": [ 3, 4 ], "forced": false
+                },
+                { "bpm": 70, "time": 59.6494, "beats": [ 1, 4 ], "forced": false
+                },
+                { "bpm": 144, "time": 60.5065, "beats": [ 4, 4 ], "forced": false
+                },
+                { "bpm": 144, "time": 67.1732, "beats": [ 3, 4 ], "forced": false
+                },
+                { "bpm": 186.4838, "time": 68.4232, "beats": [ 11, 8 ], "forced": false
+                },
+                { "bpm": 186.4838, "time": 70.1928, "beats": [ 9, 8 ], "forced": false
+                },
+                { "bpm": 186.4838, "time": 71.6407, "beats": [ 2, 4 ], "forced": false
+                },
+                { "bpm": 150.2253, "time": 72.2841, "beats": [ 3, 8 ], "forced": false
+                },
+                { "bpm": 150.2253, "time": 72.8832, "beats": [ 9, 8 ], "forced": false
                 }
             ]
         },
