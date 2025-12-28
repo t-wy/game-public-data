@@ -1,15 +1,14 @@
 {
-    "updatedAt": "2025-12-20T17:00:14+09:00",
-    "updatedAtTimestamp": 1766217614,
-    "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
+    "updatedAt": "2025-12-29T03:26:08+09:00",
+    "updatedAtTimestamp": 1766946368,
+    "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
             "id": 1,
             "name": "ワナビスタ！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 118, "time": 1.0169, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 118, "time": 1.0169, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -17,8 +16,7 @@
             "name": "トゥ・オブ・アス",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 121, "time": 0.124, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 121, "time": 0.124, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -26,8 +24,7 @@
             "name": "勿忘唄",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 100, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 100, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -35,8 +32,7 @@
             "name": "夢見月夜",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 85, "time": 0.7059, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 85, "time": 0.7059, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -44,8 +40,7 @@
             "name": "悠久月華",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 82, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 82, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -53,8 +48,7 @@
             "name": "ダイヤモンドの誓い",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 132, "time": 1.5909, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 132, "time": 1.5909, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -62,8 +56,7 @@
             "name": "魔法のラストノート",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 238, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 238, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -71,8 +64,7 @@
             "name": "New Nostalgic Friend",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 102, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 102, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -80,8 +72,7 @@
             "name": "Drawing World",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 126, "time": 0.9524, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 126, "time": 0.9524, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -89,8 +80,7 @@
             "name": "名もなき恋人よ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 88, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 88, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -98,8 +88,7 @@
             "name": "Etoile",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 73, "time": 0.0, "beats": [ 6, 8 ], "forced": false
-                }
+                { "bpm": 73, "time": 0.0, "beats": [ 6, 8 ], "forced": false }
             ]
         },
         {
@@ -107,8 +96,7 @@
             "name": "Masquerade",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 116, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 116, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -116,8 +104,7 @@
             "name": "Farewell song",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 99, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 99, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -125,8 +112,7 @@
             "name": "Eternity",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 85, "time": 0.1765, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 85, "time": 0.1765, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -134,8 +120,7 @@
             "name": "Decide",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 87, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 87, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -143,8 +128,7 @@
             "name": "ウタカタメロディ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 132, "time": 0.9091, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 132, "time": 0.9091, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -152,10 +136,8 @@
             "name": "シリウスの輝きのように",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 158, "time": 0.7595, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 200, "time": 64.557, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 158, "time": 0.7595, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 200, "time": 64.557, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -163,8 +145,7 @@
             "name": "Faith in Expression",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 140, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 140, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -172,8 +153,7 @@
             "name": "プラネタリウム・レヴュー",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 170, "time": 0.7059, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 170, "time": 0.7059, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -181,8 +161,7 @@
             "name": "デアエ・エクス・マキナ！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 175, "time": 0.6857, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 175, "time": 0.6857, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -190,8 +169,7 @@
             "name": "Binary Star",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 190, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 190, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -199,8 +177,7 @@
             "name": "暁星アストレーション",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 200, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 200, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -208,8 +185,7 @@
             "name": "情熱リベレイション",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 193, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 193, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -217,8 +193,7 @@
             "name": "プレイ・マイ・フェイバリット!!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 0.5, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 180, "time": 0.5, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -226,8 +201,7 @@
             "name": "幾億の星の空で",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 78, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 78, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -235,8 +209,7 @@
             "name": "純粋と奔放",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 134, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 134, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -244,8 +217,7 @@
             "name": "心という名の不可解",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 152, "time": 0.5921, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 152, "time": 0.5921, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -253,8 +225,7 @@
             "name": "Snow halation",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 173, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 173, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -262,8 +233,7 @@
             "name": "フォニイ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 170, "time": 0.3529, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 170, "time": 0.3529, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -271,8 +241,7 @@
             "name": "チューリングラブ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 142, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 142, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -280,8 +249,7 @@
             "name": "Shiny Smily Story",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 168, "time": 0.5357, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 168, "time": 0.5357, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -289,118 +257,62 @@
             "name": "変わらないもの",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 75, "time": 0.0, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 76, "time": 6.2345, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 80, "time": 8.1682, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 82, "time": 12.4157, "beats": [ 1, 4 ], "forced": true
-                },
-                { "bpm": 76, "time": 13.1474, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 77, "time": 13.9368, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 78, "time": 14.7161, "beats": [ 3, 4 ], "forced": true
-                },
-                { "bpm": 78, "time": 19.3315, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 79, "time": 20.8699, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 79, "time": 21.6294, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 78, "time": 23.9079, "beats": [ 5, 4 ], "forced": false
-                },
-                { "bpm": 78, "time": 27.7541, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 75, "time": 36.9656, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 76, "time": 39.1172, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 80, "time": 40.104, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 78, "time": 42.3732, "beats": [ 12, 8 ], "forced": true
-                },
-                { "bpm": 74, "time": 47.7523, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 40, "time": 49.3038, "beats": [ 1, 8 ], "forced": true
-                },
-                { "bpm": 78.4929, "time": 50.0538, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 38.5505, "time": 50.8182, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 37.9027, "time": 51.5964, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 77.4493, "time": 52.3879, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 79.6474, "time": 53.1626, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 39.1492, "time": 55.4226, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 76.2, "time": 56.1889, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 37.2255, "time": 56.9763, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 75.4527, "time": 57.7821, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 82, "time": 58.5773, "beats": [ 1, 4 ], "forced": true
-                },
-                { "bpm": 81, "time": 59.309, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 78, "time": 60.0497, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 76, "time": 60.819, "beats": [ 1, 4 ], "forced": true
-                },
-                { "bpm": 79, "time": 61.6085, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 79, "time": 64.6464, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 76.0071, "time": 67.7254, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 77, "time": 73.893, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 81, "time": 77.0015, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 79, "time": 80.0609, "beats": [ 3, 4 ], "forced": true
-                },
-                { "bpm": 78, "time": 86.2016, "beats": [ 3, 4 ], "forced": true
-                },
-                { "bpm": 78, "time": 90.817, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 77, "time": 93.8939, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 83, "time": 94.6731, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 83, "time": 95.0346, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 79, "time": 95.396, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 78, "time": 97.9164, "beats": [ 3, 4 ], "forced": true
-                },
-                { "bpm": 75, "time": 99.4625, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 81, "time": 100.0625, "beats": [ 1, 4 ], "forced": true
-                },
-                { "bpm": 80, "time": 100.8032, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 80, "time": 101.1782, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 41, "time": 101.5533, "beats": [ 1, 8 ], "forced": true
-                },
-                { "bpm": 74, "time": 102.285, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 77.7769, "time": 103.0958, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 77.7769, "time": 110.0388, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 76, "time": 112.3531, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 74.2996, "time": 115.4076, "beats": [ 3, 4 ], "forced": true
-                },
-                { "bpm": 76, "time": 118.5492, "beats": [ 9, 8 ], "forced": true
-                },
-                { "bpm": 78, "time": 120.206, "beats": [ 9, 8 ], "forced": true
-                }
+                { "bpm": 75, "time": 0.0, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 76, "time": 6.2345, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 80, "time": 8.1682, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 82, "time": 12.4157, "beats": [ 1, 4 ], "forced": true },
+                { "bpm": 76, "time": 13.1474, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 77, "time": 13.9368, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 78, "time": 14.7161, "beats": [ 3, 4 ], "forced": true },
+                { "bpm": 78, "time": 19.3315, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 79, "time": 20.8699, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 79, "time": 21.6294, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 78, "time": 23.9079, "beats": [ 5, 4 ], "forced": false },
+                { "bpm": 78, "time": 27.7541, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 75, "time": 36.9656, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 76, "time": 39.1172, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 80, "time": 40.104, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 78, "time": 42.3732, "beats": [ 12, 8 ], "forced": true },
+                { "bpm": 74, "time": 47.7523, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 40, "time": 49.3038, "beats": [ 1, 8 ], "forced": true },
+                { "bpm": 78.4929, "time": 50.0538, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 38.5505, "time": 50.8182, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 37.9027, "time": 51.5964, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 77.4493, "time": 52.3879, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 79.6474, "time": 53.1626, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 39.1492, "time": 55.4226, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 76.2, "time": 56.1889, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 37.2255, "time": 56.9763, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 75.4527, "time": 57.7821, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 82, "time": 58.5773, "beats": [ 1, 4 ], "forced": true },
+                { "bpm": 81, "time": 59.309, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 78, "time": 60.0497, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 76, "time": 60.819, "beats": [ 1, 4 ], "forced": true },
+                { "bpm": 79, "time": 61.6085, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 79, "time": 64.6464, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 76.0071, "time": 67.7254, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 77, "time": 73.893, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 81, "time": 77.0015, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 79, "time": 80.0609, "beats": [ 3, 4 ], "forced": true },
+                { "bpm": 78, "time": 86.2016, "beats": [ 3, 4 ], "forced": true },
+                { "bpm": 78, "time": 90.817, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 77, "time": 93.8939, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 83, "time": 94.6731, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 83, "time": 95.0346, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 79, "time": 95.396, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 78, "time": 97.9164, "beats": [ 3, 4 ], "forced": true },
+                { "bpm": 75, "time": 99.4625, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 81, "time": 100.0625, "beats": [ 1, 4 ], "forced": true },
+                { "bpm": 80, "time": 100.8032, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 80, "time": 101.1782, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 41, "time": 101.5533, "beats": [ 1, 8 ], "forced": true },
+                { "bpm": 74, "time": 102.285, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 77.7769, "time": 103.0958, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 77.7769, "time": 110.0388, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 76, "time": 112.3531, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 74.2996, "time": 115.4076, "beats": [ 3, 4 ], "forced": true },
+                { "bpm": 76, "time": 118.5492, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 78, "time": 120.206, "beats": [ 9, 8 ], "forced": true }
             ]
         },
         {
@@ -408,8 +320,7 @@
             "name": "Realize",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 206, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 206, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -417,8 +328,7 @@
             "name": "魔法少女とチョコレゐト",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 150, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 150, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -426,8 +336,7 @@
             "name": "怪物",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 170, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 170, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -435,38 +344,22 @@
             "name": "六兆年と一夜物語",
             "mode": "Manual",
             "bpm": [
-                { "bpm": 80, "time": 0.75, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 77.5, "time": 3.75, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 75, "time": 4.5242, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 82, "time": 5.3242, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 78, "time": 6.0559, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 73.5, "time": 6.8251, "beats": [ 5, 4 ], "forced": false
-                },
-                { "bpm": 72.5, "time": 7.6415, "beats": [ 5, 4 ], "forced": false
-                },
-                { "bpm": 79, "time": 8.469, "beats": [ 5, 4 ], "forced": false
-                },
-                { "bpm": 72.25, "time": 9.1652, "beats": [ 5, 4 ], "forced": false
-                },
-                { "bpm": 56.85, "time": 9.5803, "beats": [ 5, 4 ], "forced": false
-                },
-                { "bpm": 56.85, "time": 10.2839, "beats": [ 4, 4 ], "forced": true
-                },
-                { "bpm": 186, "time": 11.3394, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 139, "time": 120.6942, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 125, "time": 121.1258, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 117.5, "time": 122.5658, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 186, "time": 123.5871, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 80, "time": 0.75, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 77.5, "time": 3.75, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 75, "time": 4.5242, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 82, "time": 5.3242, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 78, "time": 6.0559, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 73.5, "time": 6.8251, "beats": [ 5, 4 ], "forced": false },
+                { "bpm": 72.5, "time": 7.6415, "beats": [ 5, 4 ], "forced": false },
+                { "bpm": 79, "time": 8.469, "beats": [ 5, 4 ], "forced": false },
+                { "bpm": 72.25, "time": 9.1652, "beats": [ 5, 4 ], "forced": false },
+                { "bpm": 56.85, "time": 9.5803, "beats": [ 5, 4 ], "forced": false },
+                { "bpm": 56.85, "time": 10.2839, "beats": [ 4, 4 ], "forced": true },
+                { "bpm": 186, "time": 11.3394, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 139, "time": 120.6942, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 125, "time": 121.1258, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 117.5, "time": 122.5658, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 186, "time": 123.5871, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -474,8 +367,7 @@
             "name": "名前のない怪物",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 180, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -483,12 +375,9 @@
             "name": "アタシのアシタはアタシがキメル",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 182, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 140, "time": 23.7363, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 182, "time": 39.1648, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 182, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 140, "time": 23.7363, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 182, "time": 39.1648, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -496,10 +385,8 @@
             "name": "Blondie Revenge Tragedy",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 145, "time": 1.4483, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 210, "time": 80.8966, "beats": [ 12, 8 ], "forced": false
-                }
+                { "bpm": 145, "time": 1.4483, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 210, "time": 80.8966, "beats": [ 12, 8 ], "forced": false }
             ]
         },
         {
@@ -507,8 +394,7 @@
             "name": "Fernweh",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 80, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 80, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -516,8 +402,7 @@
             "name": "サマーバカンス☆アクトレス！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 142, "time": 0.6338, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 142, "time": 0.6338, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -525,8 +410,7 @@
             "name": "I Wanna",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 200, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 200, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -534,8 +418,7 @@
             "name": "パーティー・ジョーク・シンデレラ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 100, "time": 1.2, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 100, "time": 1.2, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -543,8 +426,7 @@
             "name": "てぃだんちゅ MEETS てぃんがーら！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 150, "time": 0.2, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 150, "time": 0.2, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -552,8 +434,7 @@
             "name": "夏の夜空に光る雪",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 115, "time": 0.5217, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 115, "time": 0.5217, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -561,8 +442,7 @@
             "name": "電脳スペクタクル",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 220, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 220, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -570,8 +450,7 @@
             "name": "ひとりの夜のフィルモグラフィー",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 105, "time": 0.8571, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 105, "time": 0.8571, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -579,8 +458,7 @@
             "name": "ANIMA",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 193, "time": 0.6218, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 193, "time": 0.6218, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -588,8 +466,7 @@
             "name": "フレーフレー・ファンファーレ！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 162, "time": 0.5556, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 162, "time": 0.5556, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -597,8 +474,7 @@
             "name": "Black Diary",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 138, "time": 0.2174, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 138, "time": 0.2174, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -606,8 +482,7 @@
             "name": "Pandastic Stage!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 1.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 180, "time": 1.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -615,8 +490,7 @@
             "name": "血を着飾る栄華のために",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 168, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 168, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -624,8 +498,7 @@
             "name": "シル・ヴ・プレジデント",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 176, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 176, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -633,8 +506,7 @@
             "name": "巡る暦の花のように",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 94, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 94, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -642,8 +514,7 @@
             "name": "革命ダンス",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 174, "time": 0.1724, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 174, "time": 0.1724, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -651,8 +522,7 @@
             "name": "マイ・ピクチャー・ストーリー",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 127, "time": 0.7087, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 127, "time": 0.7087, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -660,8 +530,7 @@
             "name": "きらり！マジカリュー・スマイル！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 175, "time": 0.6857, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 175, "time": 0.6857, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -669,8 +538,7 @@
             "name": "adrenaline!!!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 134, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 134, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -678,8 +546,7 @@
             "name": "Forbidden Fruit Addiction",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 152, "time": 0.1974, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 152, "time": 0.1974, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -687,8 +554,7 @@
             "name": "So long, Say Goodbye",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 86, "time": 0.1744, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 86, "time": 0.1744, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -696,12 +562,9 @@
             "name": "夢のステラリウム",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 154, "time": 0.7792, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 154, "time": 10.1299, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 178, "time": 10.9091, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 154, "time": 0.7792, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 154, "time": 10.1299, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 178, "time": 10.9091, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -709,8 +572,7 @@
             "name": "トゥインクル・トゥインクル・スクールデイズ！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 180, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -718,8 +580,7 @@
             "name": "ちいさないのちのさけるばしょ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 209, "time": 0.0, "beats": [ 3, 4 ], "forced": false
-                }
+                { "bpm": 209, "time": 0.0, "beats": [ 3, 4 ], "forced": false }
             ]
         },
         {
@@ -727,8 +588,7 @@
             "name": "いろはうたBLOOMING",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 104, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 104, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -736,8 +596,7 @@
             "name": "DAYBREAK FRONTLINE",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 136, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 136, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -745,8 +604,7 @@
             "name": "フタリノスタルジア",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 160, "time": 0.375, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 160, "time": 0.375, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -754,8 +612,7 @@
             "name": "Get to Act Life♡",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 166, "time": 0.1807, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 166, "time": 0.1807, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -763,10 +620,8 @@
             "name": "こんなに素晴らしい世界で",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 133, "time": 0.2256, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 146, "time": 12.8571, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 133, "time": 0.2256, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 146, "time": 12.8571, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -774,8 +629,7 @@
             "name": "不可逆的運命ディストピア",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 280, "time": 0.2143, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 280, "time": 0.2143, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -783,8 +637,7 @@
             "name": "小さな奇跡の降る夜に",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 141, "time": 0.2128, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 141, "time": 0.2128, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -792,8 +645,7 @@
             "name": "トウキョウ・シャンディ・ランデヴ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 137, "time": 0.5474, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 137, "time": 0.5474, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -801,8 +653,7 @@
             "name": "HAPPY NEW SHOW TIME!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 177, "time": 0.339, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 177, "time": 0.339, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -810,8 +661,7 @@
             "name": "アンプレザント・ライン",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 127, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 127, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -819,8 +669,7 @@
             "name": "アイ・ウィル！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 184, "time": 0.163, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 184, "time": 0.163, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -828,8 +677,7 @@
             "name": "Rolling Stone",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 172, "time": 0.1744, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 172, "time": 0.1744, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -837,8 +685,7 @@
             "name": "かくれんぼ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 180, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -846,8 +693,7 @@
             "name": "Surges",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 137, "time": 0.219, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 137, "time": 0.219, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -855,8 +701,7 @@
             "name": "アスノヨゾラ哨戒班",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 185, "time": 0.1622, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 185, "time": 0.1622, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -864,8 +709,7 @@
             "name": "可愛くてごめん",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 160, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 160, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -873,8 +717,7 @@
             "name": "幻日ミステリウム",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 151, "time": 0.1987, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 151, "time": 0.1987, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -882,8 +725,7 @@
             "name": "ウタカタララバイ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 178, "time": 0.7584, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 178, "time": 0.7584, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -891,8 +733,7 @@
             "name": "NEO SKY, NEO MAP!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 142, "time": 0.8451, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 142, "time": 0.8451, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -900,8 +741,7 @@
             "name": "ミックス・アップ・インタレスト！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 138, "time": 0.6522, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 138, "time": 0.6522, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -909,8 +749,7 @@
             "name": "Crystal Bell",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 87, "time": 0.1724, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 87, "time": 0.1724, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -918,8 +757,7 @@
             "name": "St. Bitter Sweet",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 142, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 142, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -927,8 +765,7 @@
             "name": "賭世遊戯",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 168, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 168, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -936,8 +773,7 @@
             "name": "ふぁうすと・いんぷれっしょん！！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 0.25, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 180, "time": 0.25, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -945,8 +781,7 @@
             "name": "ハチメンロッピング！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 208, "time": 0.2885, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 208, "time": 0.2885, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -954,42 +789,24 @@
             "name": "To B-eat, or not to B-eat!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 116, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 150, "time": 5.1724, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 184, "time": 5.9724, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 155, "time": 9.8855, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 145, "time": 43.95, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 165, "time": 44.7776, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 165, "time": 45.5048, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 154.9854, "time": 51.323, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 145, "time": 52.8715, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 152, "time": 54.5267, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 157, "time": 56.8951, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 157, "time": 57.6595, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 157, "time": 67.9779, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 164, "time": 69.1244, "beats": [ 6, 8 ], "forced": false
-                },
-                { "bpm": 172, "time": 70.222, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 172, "time": 70.9197, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 72.5, "time": 86.2685, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 155, "time": 87.0961, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 116, "time": 0.0, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 150, "time": 5.1724, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 184, "time": 5.9724, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 155, "time": 9.8855, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 145, "time": 43.95, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 165, "time": 44.7776, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 165, "time": 45.5048, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 154.9854, "time": 51.323, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 145, "time": 52.8715, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 152, "time": 54.5267, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 157, "time": 56.8951, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 157, "time": 57.6595, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 157, "time": 67.9779, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 164, "time": 69.1244, "beats": [ 6, 8 ], "forced": false },
+                { "bpm": 172, "time": 70.222, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 172, "time": 70.9197, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 72.5, "time": 86.2685, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 155, "time": 87.0961, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -997,8 +814,7 @@
             "name": "MY FIRST ACT！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 224, "time": 0.8036, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 224, "time": 0.8036, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1006,8 +822,7 @@
             "name": "深度異症候群-Shindoi Syndrome-",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 153, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 153, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1015,8 +830,7 @@
             "name": "Singin' little blue bird",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 126, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 126, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1024,8 +838,7 @@
             "name": "ハートフル・レシピ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 141, "time": 0.6383, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 141, "time": 0.6383, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1033,8 +846,7 @@
             "name": "Friends Per Second",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 120, "time": 0.25, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 120, "time": 0.25, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -1042,8 +854,7 @@
             "name": "眩しい朝日に照らされて",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 180, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1051,8 +862,7 @@
             "name": "夕焼け色は始まりの色",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 170, "time": 0.4706, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 170, "time": 0.4706, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1060,8 +870,7 @@
             "name": "銀月照らす美しき罪",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 148, "time": 0.2027, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 148, "time": 0.2027, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1069,8 +878,7 @@
             "name": "アクト・レゾナンス",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 178, "time": 1.0112, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 178, "time": 1.0112, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1078,8 +886,7 @@
             "name": "Thirsty Soul",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 258, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 258, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1087,8 +894,7 @@
             "name": "Wish upon a star",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 234, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 234, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1096,8 +902,7 @@
             "name": "ワンダフル・フラワー・ガーデン！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 145, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 145, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1105,8 +910,7 @@
             "name": "リアルタイム・リプライ！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 127, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 127, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1114,14 +918,10 @@
             "name": "マン・ハン・チュエンシー!!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 120, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 115, "time": 6.0, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 110, "time": 7.0435, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 160, "time": 8.1344, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 120, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 115, "time": 6.0, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 110, "time": 7.0435, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 160, "time": 8.1344, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1129,8 +929,7 @@
             "name": "雪は春に、そして花束を",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 160, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 160, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1138,8 +937,7 @@
             "name": "惑う星達のダンスホール",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 132, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 132, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1147,8 +945,7 @@
             "name": "Like Blooming Flowers",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 135, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 135, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -1156,8 +953,7 @@
             "name": "水際PARTY、水着でFUNNY",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 185, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 185, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1165,8 +961,7 @@
             "name": "あの夏が飽和する。",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 90, "time": 0.6667, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 90, "time": 0.6667, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1174,18 +969,12 @@
             "name": "Stellar Stellar",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 164, "time": 0.7317, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 169, "time": 5.122, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 178, "time": 6.5421, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 178, "time": 117.1039, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 164, "time": 118.1151, "beats": [ 3, 8 ], "forced": false
-                },
-                { "bpm": 164, "time": 118.6639, "beats": [ 12, 8 ], "forced": false
-                }
+                { "bpm": 164, "time": 0.7317, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 169, "time": 5.122, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 178, "time": 6.5421, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 178, "time": 117.1039, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 164, "time": 118.1151, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 164, "time": 118.6639, "beats": [ 12, 8 ], "forced": false }
             ]
         },
         {
@@ -1193,8 +982,7 @@
             "name": "Nameless Story",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 195, "time": 0.6154, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 195, "time": 0.6154, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1202,8 +990,7 @@
             "name": "Another colony",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 169, "time": 0.5325, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 169, "time": 0.5325, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1211,8 +998,7 @@
             "name": "ただ声一つ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 130, "time": 0.6923, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 130, "time": 0.6923, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1220,8 +1006,7 @@
             "name": "ヴァンパイア",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 164, "time": 0.9146, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 164, "time": 0.9146, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1229,8 +1014,7 @@
             "name": "エジソン",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 130, "time": 0.4615, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 130, "time": 0.4615, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1238,8 +1022,7 @@
             "name": "強風オールバック",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 135, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 135, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1247,8 +1030,7 @@
             "name": "オドループ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 172, "time": 0.1744, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 172, "time": 0.1744, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1256,8 +1038,7 @@
             "name": "忘れじの言の葉",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 135, "time": 0.0, "beats": [ 3, 4 ], "forced": false
-                }
+                { "bpm": 135, "time": 0.0, "beats": [ 3, 4 ], "forced": false }
             ]
         },
         {
@@ -1265,8 +1046,7 @@
             "name": "Virtual to LIVE",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 156, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 156, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1274,8 +1054,7 @@
             "name": "檄!帝国華撃団",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 142.55, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 142.55, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1283,8 +1062,7 @@
             "name": "INTERNET YAMERO",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 185, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 185, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1292,8 +1070,7 @@
             "name": "TOMORROW",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 134, "time": 0.6716, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 134, "time": 0.6716, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1301,8 +1078,7 @@
             "name": "インフェルノ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 185, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 185, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1310,8 +1086,7 @@
             "name": "ミックスナッツ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 150, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 150, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1319,8 +1094,7 @@
             "name": "Transcend Lights",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 105, "time": 0.5714, "beats": [ 6, 8 ], "forced": false
-                }
+                { "bpm": 105, "time": 0.5714, "beats": [ 6, 8 ], "forced": false }
             ]
         },
         {
@@ -1328,8 +1102,7 @@
             "name": "絆はずっとGrowing Up!!!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 190, "time": 0.3158, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 190, "time": 0.3158, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1337,8 +1110,7 @@
             "name": "give it up to you",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 174, "time": 0.1724, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 174, "time": 0.1724, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1346,8 +1118,7 @@
             "name": "Y.Y.Y.計画!!!!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 186, "time": 0.3226, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 186, "time": 0.3226, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -1355,8 +1126,7 @@
             "name": "STARTLINER",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 135, "time": 0.8889, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 135, "time": 0.8889, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1364,8 +1134,7 @@
             "name": "進め！マイウェイ！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 160, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 160, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1373,8 +1142,7 @@
             "name": "撩乱乙女†無双劇",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 165, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 165, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1382,8 +1150,7 @@
             "name": "めんどーい！やっほーい！ともだち！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 195, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 195, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1391,8 +1158,7 @@
             "name": "GODLINESS",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 183, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 183, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -1400,8 +1166,7 @@
             "name": "粛聖!!ロリ神レクイエム☆",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 165, "time": 0.7273, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 165, "time": 0.7273, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1409,8 +1174,7 @@
             "name": "シャルル",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 145, "time": 0.4138, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 145, "time": 0.4138, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1418,8 +1182,7 @@
             "name": "DISCOTHEQUE",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 143, "time": 0.6294, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 143, "time": 0.6294, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1427,8 +1190,7 @@
             "name": "BiSH-星が瞬く夜に-",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 210, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 210, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -1436,8 +1198,7 @@
             "name": "リライト",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 179, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 179, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1445,8 +1206,7 @@
             "name": "COLORS",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 136, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 136, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1454,8 +1214,7 @@
             "name": "Ｏ2",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 170, "time": 0.1765, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 170, "time": 0.1765, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1463,8 +1222,7 @@
             "name": "踊る魔法に観る魔法",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 128, "time": 0.1758, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 128, "time": 0.1758, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1472,8 +1230,7 @@
             "name": "硝子色の欠片",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 82, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 82, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1481,8 +1238,7 @@
             "name": "Neustart",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 188, "time": 0.3191, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 188, "time": 0.3191, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1490,8 +1246,7 @@
             "name": "Original Scene",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 168, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 168, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1499,8 +1254,7 @@
             "name": "色即是空卍Trick is Treat！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 145, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 145, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1508,8 +1262,7 @@
             "name": "Sweet Memories",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 186, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 186, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1517,8 +1270,7 @@
             "name": "史上最幸NEW YEAR!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 206, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 206, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1526,8 +1278,7 @@
             "name": "プリズム△▽リズム",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 155, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 155, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1535,8 +1286,7 @@
             "name": "ホシシズク",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 182, "time": 0.4945, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 182, "time": 0.4945, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1544,8 +1294,7 @@
             "name": "花と、雪と、ドラムンベース。",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 180, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1553,8 +1302,7 @@
             "name": "Starry Colors",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 177, "time": 0.678, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 177, "time": 0.678, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1562,8 +1310,7 @@
             "name": "星めぐり、果ての君へ。",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 175, "time": 0.6857, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 175, "time": 0.6857, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1571,8 +1318,7 @@
             "name": "青空Jumping Heart",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 200, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 200, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1580,8 +1326,7 @@
             "name": "恋になりたいAQUARIUM",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 139, "time": 0.8633, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 139, "time": 0.8633, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1589,8 +1334,7 @@
             "name": "Landing action Yeah!!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 147, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 147, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1598,8 +1342,7 @@
             "name": "Believe again",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 140, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 140, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1607,8 +1350,7 @@
             "name": "いーあるふぁんくらぶ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 145, "time": 0.8276, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 145, "time": 0.8276, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1616,8 +1358,7 @@
             "name": "おちゃめ機能",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 150, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 150, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1625,10 +1366,8 @@
             "name": "黎明の残照の果て、新しき光の空へ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 138, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 142, "time": 5.2174, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 138, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 142, "time": 5.2174, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1636,14 +1375,10 @@
             "name": "ヱテルナ・ガラクシア",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 185, "time": 0.3243, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 134, "time": 79.3138, "beats": [ 3, 4 ], "forced": true
-                },
-                { "bpm": 134, "time": 84.6869, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 185, "time": 86.478, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 185, "time": 0.3243, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 134, "time": 79.3138, "beats": [ 3, 4 ], "forced": true },
+                { "bpm": 134, "time": 84.6869, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 185, "time": 86.478, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1651,8 +1386,7 @@
             "name": "いこうよ！ネバーランドへ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 162, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 162, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1660,8 +1394,7 @@
             "name": "トーキョー・ウィンター・ミュージック",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 132, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 132, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -1669,8 +1402,7 @@
             "name": "絶対！ニーデリッヒ宣言♡",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 176, "time": 0.6818, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 176, "time": 0.6818, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1678,8 +1410,7 @@
             "name": "Act on my feelings.",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 128, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 128, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1687,8 +1418,7 @@
             "name": "蜃気楼の向こう側、君は笑ってくれるかな",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 120, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 120, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1696,8 +1426,7 @@
             "name": "マッピング・マイ・ワールド",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 176, "time": 0.6818, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 176, "time": 0.6818, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1705,8 +1434,7 @@
             "name": "いつか、薄紅の空の下で",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 115, "time": 0.5217, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 115, "time": 0.5217, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1714,58 +1442,32 @@
             "name": "ティンクル・ティンクル・ティンク！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 120, "time": 1.0, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 120, "time": 77.0, "beats": [ 3, 8 ], "forced": false
-                },
-                { "bpm": 111.9796, "time": 77.75, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 111.9796, "time": 78.0179, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 80, "time": 79.7821, "beats": [ 4, 4 ], "forced": true
-                },
-                { "bpm": 80, "time": 82.7821, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 84, "time": 83.5321, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 88, "time": 86.3892, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 92, "time": 87.7529, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 96, "time": 89.0572, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 96, "time": 89.6822, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 104, "time": 89.9947, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 104, "time": 90.5717, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 108, "time": 90.8601, "beats": [ 5, 4 ], "forced": false
-                },
-                { "bpm": 108, "time": 93.6379, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 112, "time": 95.8601, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 116, "time": 96.9315, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 120, "time": 97.966, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 120, "time": 98.466, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 132, "time": 99.4176, "beats": [ 4, 4 ], "forced": true
-                },
-                { "bpm": 132, "time": 103.054, "beats": [ 5, 4 ], "forced": false
-                },
-                { "bpm": 136, "time": 105.3267, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 140, "time": 106.209, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 144, "time": 107.0662, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 148, "time": 107.8995, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 148, "time": 108.7103, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 120, "time": 1.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 120, "time": 77.0, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 111.9796, "time": 77.75, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 111.9796, "time": 78.0179, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 80, "time": 79.7821, "beats": [ 4, 4 ], "forced": true },
+                { "bpm": 80, "time": 82.7821, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 84, "time": 83.5321, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 88, "time": 86.3892, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 92, "time": 87.7529, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 96, "time": 89.0572, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 96, "time": 89.6822, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 104, "time": 89.9947, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 104, "time": 90.5717, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 108, "time": 90.8601, "beats": [ 5, 4 ], "forced": false },
+                { "bpm": 108, "time": 93.6379, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 112, "time": 95.8601, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 116, "time": 96.9315, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 120, "time": 97.966, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 120, "time": 98.466, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 132, "time": 99.4176, "beats": [ 4, 4 ], "forced": true },
+                { "bpm": 132, "time": 103.054, "beats": [ 5, 4 ], "forced": false },
+                { "bpm": 136, "time": 105.3267, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 140, "time": 106.209, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 144, "time": 107.0662, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 148, "time": 107.8995, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 148, "time": 108.7103, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1773,8 +1475,7 @@
             "name": "君というメソッドへ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 197, "time": 0.3046, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 197, "time": 0.3046, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1782,8 +1483,7 @@
             "name": "想い出はリタルダンド",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 159, "time": 1.1321, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 159, "time": 1.1321, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1791,8 +1491,7 @@
             "name": "ビビデバ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 120, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 120, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1800,8 +1499,7 @@
             "name": "愛包ダンスホール",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 141, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 141, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1809,8 +1507,7 @@
             "name": "カオスが極まる",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 195, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 195, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1818,10 +1515,8 @@
             "name": "1・2・3",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 182, "time": 0.3297, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 67, "time": 109.7309, "beats": [ 9, 8 ], "forced": true
-                }
+                { "bpm": 182, "time": 0.3297, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 67, "time": 109.7309, "beats": [ 9, 8 ], "forced": true }
             ]
         },
         {
@@ -1829,8 +1524,7 @@
             "name": "オーバーライド",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 204, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 204, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1838,12 +1532,9 @@
             "name": "シャイニングスター",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 158, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 140, "time": 109.3671, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 128, "time": 111.0814, "beats": [ 9, 8 ], "forced": false
-                }
+                { "bpm": 158, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 140, "time": 109.3671, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 128, "time": 111.0814, "beats": [ 9, 8 ], "forced": false }
             ]
         },
         {
@@ -1851,8 +1542,7 @@
             "name": "きゅうくらりん",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 220, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 220, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1860,8 +1550,7 @@
             "name": "春を告げる",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 120, "time": 0.5, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 120, "time": 0.5, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1869,8 +1558,7 @@
             "name": "青春サイダー",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 160, "time": 0.1875, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 160, "time": 0.1875, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1878,8 +1566,7 @@
             "name": "SHINY DAYS",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 110, "time": 0.5455, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 110, "time": 0.5455, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1887,8 +1574,7 @@
             "name": "レイドバックジャーニー",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 122, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 122, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -1896,8 +1582,7 @@
             "name": "Worlds Dye Star",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 117, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 117, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1905,8 +1590,7 @@
             "name": "シャボンに浮かぶセカイであおう",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 125, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 125, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1914,8 +1598,7 @@
             "name": "ハオダー？ハオアー！-好的？好啊！-",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 184, "time": 0.3261, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 184, "time": 0.3261, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1923,8 +1606,7 @@
             "name": "Dear My Eden",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 190, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 190, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -1932,8 +1614,7 @@
             "name": "Sunny day in June.",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 116, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 116, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1941,8 +1622,7 @@
             "name": "SECRET TRAINING!!!!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 200, "time": 0.3, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 200, "time": 0.3, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1950,8 +1630,7 @@
             "name": "氷雨に舞う火の鳥",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 176, "time": 0.6818, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 176, "time": 0.6818, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1959,8 +1638,7 @@
             "name": "アンチ・サニーデイズ・カレンダー",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 125, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 125, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1968,8 +1646,7 @@
             "name": "RAREFIED HEIGHTS",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 227, "time": 0.1322, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 227, "time": 0.1322, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -1977,22 +1654,14 @@
             "name": "グローリー・ワンダーランド",
             "mode": "Manual",
             "bpm": [
-                { "bpm": 260, "time": 0.5769, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 235, "time": 50.4231, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 215, "time": 51.4444, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 260, "time": 52.5606, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 230, "time": 104.2529, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 240, "time": 112.6008, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 250, "time": 116.6008, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 260, "time": 117.5608, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 260, "time": 0.5769, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 235, "time": 50.4231, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 215, "time": 51.4444, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 260, "time": 52.5606, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 230, "time": 104.2529, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 240, "time": 112.6008, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 250, "time": 116.6008, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 260, "time": 117.5608, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2000,8 +1669,7 @@
             "name": "甲賀忍法帖",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 178, "time": 0.1685, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 178, "time": 0.1685, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2009,10 +1677,8 @@
             "name": "ファンサ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 152, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 176, "time": 15.7895, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 152, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 176, "time": 15.7895, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2020,8 +1686,7 @@
             "name": "Bling-Bang-Bang-Born",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 157, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 157, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2029,8 +1694,7 @@
             "name": "Invitation",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 147, "time": 0.8163, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 147, "time": 0.8163, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2038,8 +1702,7 @@
             "name": "Blazing Break",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 142, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 142, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2047,8 +1710,7 @@
             "name": "光線チューニング",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 190, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 190, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2056,8 +1718,7 @@
             "name": "〚隔絶〛～Flame of Determination",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 150, "time": 0.1333, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 150, "time": 0.1333, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2065,8 +1726,7 @@
             "name": "蜘蛛の糸",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 0.6667, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 180, "time": 0.6667, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2074,8 +1734,7 @@
             "name": "ロマンスの神様",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 125.9, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 125.9, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2083,8 +1742,7 @@
             "name": "DreamRiser",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 165, "time": 0.5455, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 165, "time": 0.5455, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2092,8 +1750,7 @@
             "name": "Enter Enter MISSION！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 159, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 159, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2101,16 +1758,11 @@
             "name": "愛に生きる喜びを",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 98, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 98, "time": 24.4898, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 120, "time": 25.7143, "beats": [ 5, 4 ], "forced": false
-                },
-                { "bpm": 120, "time": 28.2143, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 98, "time": 112.2143, "beats": [ 3, 4 ], "forced": true
-                }
+                { "bpm": 98, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 98, "time": 24.4898, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 120, "time": 25.7143, "beats": [ 5, 4 ], "forced": false },
+                { "bpm": 120, "time": 28.2143, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 98, "time": 112.2143, "beats": [ 3, 4 ], "forced": true }
             ]
         },
         {
@@ -2118,8 +1770,7 @@
             "name": "黄昏時、夏の余韻",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 137, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 137, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2127,10 +1778,8 @@
             "name": "VIVID BIT AT HOME！",
             "mode": "Manual",
             "bpm": [
-                { "bpm": 177, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 238, "time": 10.8475, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 177, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 238, "time": 10.8475, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2138,8 +1787,7 @@
             "name": "ナツのキオクのナイショのホンネ！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 200, "time": 0.225, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 200, "time": 0.225, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2147,8 +1795,7 @@
             "name": "星に出逢えた夜に歌って",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 96, "time": 0.9375, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 96, "time": 0.9375, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2156,8 +1803,7 @@
             "name": "Gazing Dialogue Play",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 228, "time": 0.5263, "beats": [ 12, 8 ], "forced": false
-                }
+                { "bpm": 228, "time": 0.5263, "beats": [ 12, 8 ], "forced": false }
             ]
         },
         {
@@ -2165,8 +1811,7 @@
             "name": "陰陽幻燈譚",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 194, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 194, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -2174,8 +1819,7 @@
             "name": "STARRY STORY！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 185, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 185, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2183,8 +1827,7 @@
             "name": "ハロー・マイ・ロケット",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 178, "time": 0.3371, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 178, "time": 0.3371, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2192,8 +1835,7 @@
             "name": "五条大橋の妖しき化生",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 169, "time": 0.5325, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 169, "time": 0.5325, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2201,8 +1843,7 @@
             "name": "Aschenputtel",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 216, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 216, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2210,8 +1851,7 @@
             "name": "カルペ・ディエム",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 264, "time": 0.4545, "beats": [ 3, 4 ], "forced": false
-                }
+                { "bpm": 264, "time": 0.4545, "beats": [ 3, 4 ], "forced": false }
             ]
         },
         {
@@ -2219,8 +1859,7 @@
             "name": "誰ガ為ノサダメ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 154, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 154, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2228,8 +1867,7 @@
             "name": "Vivid-day Happy-day Boost!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 170, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 170, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2237,8 +1875,7 @@
             "name": "ヴィヴァラヰタ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 208, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 208, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2246,8 +1883,7 @@
             "name": "This game",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 147, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 147, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2255,8 +1891,7 @@
             "name": "テアトルム・アストラーレ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 184, "time": 0.587, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 184, "time": 0.587, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2264,20 +1899,13 @@
             "name": "Stellarium Collection Vol.1",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 159, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 152, "time": 27.1698, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 123, "time": 52.433, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 148, "time": 75.8476, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 115, "time": 83.9557, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 123, "time": 100.6514, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 172, "time": 108.4562, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 159, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 152, "time": 27.1698, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 123, "time": 52.433, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 148, "time": 75.8476, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 115, "time": 83.9557, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 123, "time": 100.6514, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 172, "time": 108.4562, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2285,8 +1913,7 @@
             "name": "悠久月華（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 82, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 82, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2294,8 +1921,7 @@
             "name": "Drawing World （Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 126, "time": 0.9524, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 126, "time": 0.9524, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2303,8 +1929,7 @@
             "name": "Masquerade（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 116, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 116, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2312,24 +1937,15 @@
             "name": "シリウスの輝きのように（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 158, "time": 0.7595, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 200, "time": 64.557, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 158, "time": 108.957, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 200, "time": 157.5646, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 158, "time": 198.3646, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 158, "time": 199.1241, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 158, "time": 211.0861, "beats": [ 5, 8 ], "forced": false
-                },
-                { "bpm": 200, "time": 212.0354, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 200, "time": 213.2354, "beats": [ 3, 4 ], "forced": false
-                }
+                { "bpm": 158, "time": 0.7595, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 200, "time": 64.557, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 158, "time": 108.957, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 200, "time": 157.5646, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 158, "time": 198.3646, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 158, "time": 199.1241, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 158, "time": 211.0861, "beats": [ 5, 8 ], "forced": false },
+                { "bpm": 200, "time": 212.0354, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 200, "time": 213.2354, "beats": [ 3, 4 ], "forced": false }
             ]
         },
         {
@@ -2337,8 +1953,7 @@
             "name": "Faith in Expression（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 140, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 140, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -2346,8 +1961,7 @@
             "name": "プラネタリウム・レヴュー（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 170, "time": 0.7059, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 170, "time": 0.7059, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2355,8 +1969,7 @@
             "name": "デアエ・エクス・マキナ！（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 175, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 175, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -2364,8 +1977,7 @@
             "name": "Binary Star（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 190, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 190, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2373,8 +1985,7 @@
             "name": "情熱リベレイション（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 193, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 193, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2382,8 +1993,7 @@
             "name": "プレイ・マイ・フェイバリット!!（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 0.5, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 180, "time": 0.5, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2391,8 +2001,7 @@
             "name": "幾億の星の空で（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 78, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 78, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2400,8 +2009,7 @@
             "name": "純粋と奔放（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 134, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 134, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2409,28 +2017,17 @@
             "name": "アタシのアシタはアタシがキメル（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 182, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 140, "time": 23.7363, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 182, "time": 39.1648, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 140, "time": 82.6813, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 182, "time": 98.1099, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 140, "time": 109.978, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 140, "time": 111.2637, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 160, "time": 128.4066, "beats": [ 4, 4 ], "forced": true
-                },
-                { "bpm": 160, "time": 131.4066, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 182, "time": 132.1566, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 182, "time": 132.8159, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 182, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 140, "time": 23.7363, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 182, "time": 39.1648, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 140, "time": 82.6813, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 182, "time": 98.1099, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 140, "time": 109.978, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 140, "time": 111.2637, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 160, "time": 128.4066, "beats": [ 4, 4 ], "forced": true },
+                { "bpm": 160, "time": 131.4066, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 182, "time": 132.1566, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 182, "time": 132.8159, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2438,10 +2035,8 @@
             "name": "Blondie Revenge Tragedy（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 145, "time": 1.4483, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 210, "time": 171.931, "beats": [ 12, 8 ], "forced": false
-                }
+                { "bpm": 145, "time": 1.4483, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 210, "time": 171.931, "beats": [ 12, 8 ], "forced": false }
             ]
         },
         {
@@ -2449,8 +2044,7 @@
             "name": "Fernweh（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 80, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 80, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2458,8 +2052,7 @@
             "name": "サマーバカンス☆アクトレス！（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 142, "time": 0.6338, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 142, "time": 0.6338, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2467,8 +2060,7 @@
             "name": "I Wanna（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 200, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                }
+                { "bpm": 200, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
             ]
         },
         {
@@ -2476,8 +2068,7 @@
             "name": "てぃだんちゅ MEETS てぃんがーら！（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 150, "time": 0.2, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 150, "time": 0.2, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2485,8 +2076,7 @@
             "name": "夏の夜空に光る雪（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 115, "time": 0.5217, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 115, "time": 0.5217, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2494,8 +2084,7 @@
             "name": "電脳スペクタクル（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 220, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 220, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2503,8 +2092,7 @@
             "name": "ひとりの夜のフィルモグラフィー（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 105, "time": 0.8571, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 105, "time": 0.8571, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2512,8 +2100,7 @@
             "name": "Black Diary（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 138, "time": 0.2174, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 138, "time": 0.2174, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2521,8 +2108,7 @@
             "name": "Pandastic Stage!（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 1.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 180, "time": 1.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2530,8 +2116,7 @@
             "name": "巡る暦の花のように（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 94, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 94, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2539,8 +2124,7 @@
             "name": "きらり！マジカリュー・スマイル！（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 175, "time": 0.6857, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 175, "time": 0.6857, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2548,8 +2132,7 @@
             "name": "Forbidden Fruit Addiction（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 152, "time": 0.1974, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 152, "time": 0.1974, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2557,12 +2140,9 @@
             "name": "夢のステラリウム（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 154, "time": 0.7792, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 154, "time": 10.1299, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 178, "time": 10.9091, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 154, "time": 0.7792, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 154, "time": 10.1299, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 178, "time": 10.9091, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2570,8 +2150,7 @@
             "name": "ちいさないのちのさけるばしょ（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 209, "time": 0.0, "beats": [ 12, 8 ], "forced": false
-                }
+                { "bpm": 209, "time": 0.0, "beats": [ 12, 8 ], "forced": false }
             ]
         },
         {
@@ -2579,8 +2158,7 @@
             "name": "いろはうたBLOOMING（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 104, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 104, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2588,8 +2166,7 @@
             "name": "フタリノスタルジア（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 160, "time": 0.375, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 160, "time": 0.375, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2597,8 +2174,7 @@
             "name": "Get to Act Life♡（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 166, "time": 0.1807, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 166, "time": 0.1807, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2606,8 +2182,7 @@
             "name": "不可逆的運命ディストピア（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 280, "time": 0.2143, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 280, "time": 0.2143, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2615,8 +2190,7 @@
             "name": "小さな奇跡の降る夜に（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 141, "time": 0.2128, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 141, "time": 0.2128, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2624,8 +2198,7 @@
             "name": "HAPPY NEW SHOW TIME!（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 177, "time": 0.339, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 177, "time": 0.339, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2633,8 +2206,7 @@
             "name": "アイ・ウィル！（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 184, "time": 0.163, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 184, "time": 0.163, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2642,8 +2214,7 @@
             "name": "Crystal Bell（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 87, "time": 0.1724, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 87, "time": 0.1724, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2651,8 +2222,7 @@
             "name": "St. Bitter Sweet（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 142, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 142, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2660,8 +2230,7 @@
             "name": "賭世遊戯（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 168, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 168, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2669,86 +2238,46 @@
             "name": "To B-eat, or not to B-eat!（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 116, "time": 0.0, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 150, "time": 5.1724, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 184, "time": 5.9724, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 155, "time": 9.8855, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 145, "time": 43.95, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 165, "time": 44.7776, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 165, "time": 45.5048, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 154.9854, "time": 51.323, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 145, "time": 52.8715, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 152, "time": 54.5267, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 157, "time": 56.8951, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 157, "time": 57.6595, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 157, "time": 67.9779, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 164, "time": 69.1244, "beats": [ 6, 8 ], "forced": false
-                },
-                { "bpm": 172, "time": 70.222, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 172, "time": 70.9197, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 72.5, "time": 86.2685, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 155, "time": 87.0961, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 222, "time": 119.6122, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 222, "time": 131.7744, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 155, "time": 132.5852, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 155, "time": 151.1658, "beats": [ 3, 8 ], "forced": false
-                },
-                { "bpm": 152, "time": 151.7465, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 152, "time": 151.9439, "beats": [ 3, 8 ], "forced": false
-                },
-                { "bpm": 149, "time": 152.536, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 149, "time": 152.7373, "beats": [ 3, 8 ], "forced": false
-                },
-                { "bpm": 146, "time": 153.3413, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 146, "time": 153.5468, "beats": [ 3, 8 ], "forced": false
-                },
-                { "bpm": 143, "time": 154.1633, "beats": [ 5, 8 ], "forced": false
-                },
-                { "bpm": 140, "time": 155.2122, "beats": [ 3, 8 ], "forced": false
-                },
-                { "bpm": 140, "time": 155.8551, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 137, "time": 156.0693, "beats": [ 3, 8 ], "forced": false
-                },
-                { "bpm": 137, "time": 156.7263, "beats": [ 1, 8 ], "forced": false
-                },
-                { "bpm": 134, "time": 156.9453, "beats": [ 9, 8 ], "forced": false
-                },
-                { "bpm": 157, "time": 159.0019, "beats": [ 12, 8 ], "forced": true
-                },
-                { "bpm": 164, "time": 170.4669, "beats": [ 6, 8 ], "forced": false
-                },
-                { "bpm": 172, "time": 171.5644, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 172, "time": 172.2621, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 72.5, "time": 187.6109, "beats": [ 1, 4 ], "forced": false
-                },
-                { "bpm": 155, "time": 188.4385, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 116, "time": 0.0, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 150, "time": 5.1724, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 184, "time": 5.9724, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 155, "time": 9.8855, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 145, "time": 43.95, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 165, "time": 44.7776, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 165, "time": 45.5048, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 154.9854, "time": 51.323, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 145, "time": 52.8715, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 152, "time": 54.5267, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 157, "time": 56.8951, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 157, "time": 57.6595, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 157, "time": 67.9779, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 164, "time": 69.1244, "beats": [ 6, 8 ], "forced": false },
+                { "bpm": 172, "time": 70.222, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 172, "time": 70.9197, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 72.5, "time": 86.2685, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 155, "time": 87.0961, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 222, "time": 119.6122, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 222, "time": 131.7744, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 155, "time": 132.5852, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 155, "time": 151.1658, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 152, "time": 151.7465, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 152, "time": 151.9439, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 149, "time": 152.536, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 149, "time": 152.7373, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 146, "time": 153.3413, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 146, "time": 153.5468, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 143, "time": 154.1633, "beats": [ 5, 8 ], "forced": false },
+                { "bpm": 140, "time": 155.2122, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 140, "time": 155.8551, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 137, "time": 156.0693, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 137, "time": 156.7263, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 134, "time": 156.9453, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 157, "time": 159.0019, "beats": [ 12, 8 ], "forced": true },
+                { "bpm": 164, "time": 170.4669, "beats": [ 6, 8 ], "forced": false },
+                { "bpm": 172, "time": 171.5644, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 172, "time": 172.2621, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 72.5, "time": 187.6109, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 155, "time": 188.4385, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2756,8 +2285,7 @@
             "name": "Singin' little blue bird（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 126, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 126, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2765,8 +2293,7 @@
             "name": "夕焼け色は始まりの色（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 170, "time": 0.4706, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 170, "time": 0.4706, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2774,8 +2301,7 @@
             "name": "銀月照らす美しき罪（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 148, "time": 0.2027, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 148, "time": 0.2027, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2783,8 +2309,7 @@
             "name": "アクト・レゾナンス（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 178, "time": 1.0112, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 178, "time": 1.0112, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2792,8 +2317,7 @@
             "name": "Thirsty Soul（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 258, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 258, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2801,8 +2325,7 @@
             "name": "Wish upon a star（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 234, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 234, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2810,8 +2333,7 @@
             "name": "ワンダフル・フラワー・ガーデン！（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 145, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 145, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2819,14 +2341,10 @@
             "name": "マン・ハン・チュエンシー!!（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 120, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 115, "time": 6.0, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 110, "time": 7.0435, "beats": [ 2, 4 ], "forced": false
-                },
-                { "bpm": 160, "time": 8.1344, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 120, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 115, "time": 6.0, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 110, "time": 7.0435, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 160, "time": 8.1344, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2834,8 +2352,7 @@
             "name": "雪は春に、そして花束を（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 160, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 160, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2843,14 +2360,10 @@
             "name": "ヱテルナ・ガラクシア（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 185, "time": 0.8274, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 134, "time": 153.9084, "beats": [ 4, 4 ], "forced": false
-                },
-                { "bpm": 134, "time": 155.6995, "beats": [ 3, 4 ], "forced": false
-                },
-                { "bpm": 185, "time": 161.0726, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 185, "time": 0.8274, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 134, "time": 153.9084, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 134, "time": 155.6995, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 185, "time": 161.0726, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2858,8 +2371,7 @@
             "name": "トーキョー・ウィンター・ミュージック（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 132, "time": 0.0, "beats": [ 4, 4 ], "forced": false
-                }
+                { "bpm": 132, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         }
     ]
