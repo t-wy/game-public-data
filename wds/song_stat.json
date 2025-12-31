@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2025-12-29T03:35:26+09:00",
-    "updatedAtTimestamp": 1766946926,
+    "updatedAt": "2026-01-01T00:00:56+09:00",
+    "updatedAtTimestamp": 1767193256,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2399,6 +2399,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 899, "tick_count": 346, "hold_end_count": 232, "scratch_hold_end_count": 163 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 976, "tick_count": 169, "hold_end_count": 188, "scratch_hold_end_count": 125 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1310, "tick_count": 309, "hold_end_count": 172, "scratch_hold_end_count": 48 } }
+            ]
+        },
+        {
+            "id": 242,
+            "name": "開運御礼初詣！",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 128, "tick_count": 27, "hold_end_count": 9, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 294, "tick_count": 103, "hold_end_count": 69, "scratch_hold_end_count": 46 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 527, "tick_count": 94, "hold_end_count": 98, "scratch_hold_end_count": 48 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 607, "tick_count": 79, "hold_end_count": 148, "scratch_hold_end_count": 103 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 835, "tick_count": 145, "hold_end_count": 180, "scratch_hold_end_count": 69 } }
             ]
         },
         {
