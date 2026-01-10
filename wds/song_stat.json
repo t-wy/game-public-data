@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-01-09T17:00:48+09:00",
-    "updatedAtTimestamp": 1767945648,
+    "updatedAt": "2026-01-10T17:00:52+09:00",
+    "updatedAtTimestamp": 1768032052,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2410,6 +2410,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 527, "tick_count": 94, "hold_end_count": 98, "scratch_hold_end_count": 48 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 607, "tick_count": 79, "hold_end_count": 148, "scratch_hold_end_count": 103 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 835, "tick_count": 145, "hold_end_count": 180, "scratch_hold_end_count": 69 } }
+            ]
+        },
+        {
+            "id": 243,
+            "name": "バブリック・ビューイング！",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 241, "tick_count": 92, "hold_end_count": 20, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 451, "tick_count": 159, "hold_end_count": 85, "scratch_hold_end_count": 61 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 764, "tick_count": 174, "hold_end_count": 138, "scratch_hold_end_count": 76 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 971, "tick_count": 114, "hold_end_count": 198, "scratch_hold_end_count": 130 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1484, "tick_count": 213, "hold_end_count": 188, "scratch_hold_end_count": 108 } }
             ]
         },
         {

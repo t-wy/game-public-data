@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-01-01T00:00:19+09:00",
-    "updatedAtTimestamp": 1767193219,
+    "updatedAt": "2026-01-10T17:00:16+09:00",
+    "updatedAtTimestamp": 1768032016,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1902,6 +1902,14 @@
                 { "bpm": 100, "time": 1.2, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 100, "time": 46.8, "beats": [ 2, 4 ], "forced": false },
                 { "bpm": 120, "time": 48.0, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 243,
+            "name": "バブリック・ビューイング！",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 164, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
