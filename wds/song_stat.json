@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-01-10T17:00:52+09:00",
-    "updatedAtTimestamp": 1768032052,
+    "updatedAt": "2026-01-20T17:00:50+09:00",
+    "updatedAtTimestamp": 1768896050,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2421,6 +2421,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 764, "tick_count": 174, "hold_end_count": 138, "scratch_hold_end_count": 76 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 971, "tick_count": 114, "hold_end_count": 198, "scratch_hold_end_count": 130 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1484, "tick_count": 213, "hold_end_count": 188, "scratch_hold_end_count": 108 } }
+            ]
+        },
+        {
+            "id": 244,
+            "name": "錆びついた胸に一雫の心を",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 176, "tick_count": 96, "hold_end_count": 24, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 264, "tick_count": 117, "hold_end_count": 61, "scratch_hold_end_count": 42 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 441, "tick_count": 110, "hold_end_count": 123, "scratch_hold_end_count": 64 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 639, "tick_count": 109, "hold_end_count": 196, "scratch_hold_end_count": 129 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 562, "tick_count": 178, "hold_end_count": 139, "scratch_hold_end_count": 42 } }
             ]
         },
         {

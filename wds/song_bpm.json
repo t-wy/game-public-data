@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-01-10T17:00:16+09:00",
-    "updatedAtTimestamp": 1768032016,
+    "updatedAt": "2026-01-20T17:00:12+09:00",
+    "updatedAtTimestamp": 1768896012,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1910,6 +1910,31 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 164, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 244,
+            "name": "錆びついた胸に一雫の心を",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 71, "time": 2.228, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 69, "time": 36.0308, "beats": [ 6, 8 ], "forced": false },
+                { "bpm": 74, "time": 38.6395, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 74, "time": 39.0449, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 73, "time": 42.6935, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 73, "time": 43.1045, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 69, "time": 46.8031, "beats": [ 12, 8 ], "forced": false },
+                { "bpm": 71, "time": 52.0205, "beats": [ 4, 4 ], "forced": true },
+                { "bpm": 70, "time": 66.3173, "beats": [ 3, 4 ], "forced": true },
+                { "bpm": 67, "time": 68.8887, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 67, "time": 69.7843, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 32.5, "time": 69.787, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 68, "time": 71.6597, "beats": [ 4, 4 ], "forced": true },
+                { "bpm": 68, "time": 85.7773, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 71, "time": 87.5421, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 71, "time": 90.0773, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 68, "time": 90.9223, "beats": [ 7, 8 ], "forced": false },
+                { "bpm": 68, "time": 94.0106, "beats": [ 9, 8 ], "forced": false }
             ]
         },
         {
