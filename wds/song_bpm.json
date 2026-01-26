@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-01-20T17:00:12+09:00",
-    "updatedAtTimestamp": 1768896012,
+    "updatedAt": "2026-01-26T17:00:13+09:00",
+    "updatedAtTimestamp": 1769414413,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1949,6 +1949,14 @@
                 { "bpm": 115, "time": 83.9557, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 123, "time": 100.6514, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 172, "time": 108.4562, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 262,
+            "name": "エクストラ・エキストラ！ -Extra Extra-",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 190, "time": 0.9474, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
