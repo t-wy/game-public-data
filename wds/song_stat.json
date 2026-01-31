@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-01-26T17:00:50+09:00",
-    "updatedAtTimestamp": 1769414450,
+    "updatedAt": "2026-01-31T17:00:52+09:00",
+    "updatedAtTimestamp": 1769846452,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2432,6 +2432,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 441, "tick_count": 110, "hold_end_count": 123, "scratch_hold_end_count": 64 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 639, "tick_count": 109, "hold_end_count": 196, "scratch_hold_end_count": 129 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 562, "tick_count": 178, "hold_end_count": 139, "scratch_hold_end_count": 42 } }
+            ]
+        },
+        {
+            "id": 245,
+            "name": "未来への前奏曲-Prelude-",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 364, "tick_count": 201, "hold_end_count": 44, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 587, "tick_count": 260, "hold_end_count": 136, "scratch_hold_end_count": 78 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 1078, "tick_count": 345, "hold_end_count": 205, "scratch_hold_end_count": 140 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 1118, "tick_count": 236, "hold_end_count": 221, "scratch_hold_end_count": 133 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1494, "tick_count": 227, "hold_end_count": 218, "scratch_hold_end_count": 50 } }
             ]
         },
         {
