@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-01-31T17:00:52+09:00",
-    "updatedAtTimestamp": 1769846452,
+    "updatedAt": "2026-02-09T17:01:01+09:00",
+    "updatedAtTimestamp": 1770624061,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2446,6 +2446,17 @@
             ]
         },
         {
+            "id": 246,
+            "name": "Astral×Relation",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 305, "tick_count": 138, "hold_end_count": 34, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 468, "tick_count": 155, "hold_end_count": 83, "scratch_hold_end_count": 57 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 785, "tick_count": 257, "hold_end_count": 128, "scratch_hold_end_count": 88 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 997, "tick_count": 180, "hold_end_count": 132, "scratch_hold_end_count": 89 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1146, "tick_count": 179, "hold_end_count": 129, "scratch_hold_end_count": 42 } }
+            ]
+        },
+        {
             "id": 249,
             "name": "Stellarium Collection Vol.1",
             "difficulties": [
@@ -2920,7 +2931,9 @@
             "difficulties": [
                 { "difficulty": "NORMAL", "stat": { "note_count": 474, "tick_count": 234, "hold_end_count": 50, "scratch_hold_end_count": 0 } },
                 { "difficulty": "HARD", "stat": { "note_count": 987, "tick_count": 430, "hold_end_count": 226, "scratch_hold_end_count": 127 } },
-                { "difficulty": "EXTRA", "stat": { "note_count": 1314, "tick_count": 507, "hold_end_count": 307, "scratch_hold_end_count": 176 } }
+                { "difficulty": "EXTRA", "stat": { "note_count": 1314, "tick_count": 507, "hold_end_count": 307, "scratch_hold_end_count": 176 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 1756, "tick_count": 338, "hold_end_count": 326, "scratch_hold_end_count": 198 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 2434, "tick_count": 509, "hold_end_count": 364, "scratch_hold_end_count": 106 } }
             ]
         },
         {
