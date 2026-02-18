@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-02-09T17:01:01+09:00",
-    "updatedAtTimestamp": 1770624061,
+    "updatedAt": "2026-02-18T17:00:53+09:00",
+    "updatedAtTimestamp": 1771401653,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2454,6 +2454,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 785, "tick_count": 257, "hold_end_count": 128, "scratch_hold_end_count": 88 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 997, "tick_count": 180, "hold_end_count": 132, "scratch_hold_end_count": 89 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1146, "tick_count": 179, "hold_end_count": 129, "scratch_hold_end_count": 42 } }
+            ]
+        },
+        {
+            "id": 247,
+            "name": "空っぽのギフトボックス",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 250, "tick_count": 118, "hold_end_count": 19, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 447, "tick_count": 174, "hold_end_count": 97, "scratch_hold_end_count": 56 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 638, "tick_count": 152, "hold_end_count": 116, "scratch_hold_end_count": 44 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 917, "tick_count": 169, "hold_end_count": 157, "scratch_hold_end_count": 93 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1199, "tick_count": 312, "hold_end_count": 262, "scratch_hold_end_count": 74 } }
             ]
         },
         {
