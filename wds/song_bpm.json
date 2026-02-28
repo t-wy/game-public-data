@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-02-18T17:00:11+09:00",
-    "updatedAtTimestamp": 1771401611,
+    "updatedAt": "2026-02-28T17:00:12+09:00",
+    "updatedAtTimestamp": 1772265612,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1959,6 +1959,14 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 220, "time": 0.0, "beats": [ 3, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 248,
+            "name": "八躯モ断ツ剣ノ傍デ",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 129, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {

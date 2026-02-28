@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-02-18T17:00:53+09:00",
-    "updatedAtTimestamp": 1771401653,
+    "updatedAt": "2026-02-28T17:00:49+09:00",
+    "updatedAtTimestamp": 1772265649,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2465,6 +2465,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 638, "tick_count": 152, "hold_end_count": 116, "scratch_hold_end_count": 44 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 917, "tick_count": 169, "hold_end_count": 157, "scratch_hold_end_count": 93 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1199, "tick_count": 312, "hold_end_count": 262, "scratch_hold_end_count": 74 } }
+            ]
+        },
+        {
+            "id": 248,
+            "name": "八躯モ断ツ剣ノ傍デ",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 232, "tick_count": 82, "hold_end_count": 38, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 310, "tick_count": 96, "hold_end_count": 63, "scratch_hold_end_count": 45 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 569, "tick_count": 150, "hold_end_count": 109, "scratch_hold_end_count": 72 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 782, "tick_count": 36, "hold_end_count": 120, "scratch_hold_end_count": 76 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1228, "tick_count": 45, "hold_end_count": 64, "scratch_hold_end_count": 18 } }
             ]
         },
         {
