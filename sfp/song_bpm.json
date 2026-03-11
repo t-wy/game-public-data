@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-02-28T15:00:05+09:00",
-    "updatedAtTimestamp": 1772258405,
+    "updatedAt": "2026-03-12T05:18:00+09:00",
+    "updatedAtTimestamp": 1773260280,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -445,6 +445,14 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 133, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "abyss of conflict",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 220, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {

@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-02-28T17:00:12+09:00",
-    "updatedAtTimestamp": 1772265612,
+    "updatedAt": "2026-03-12T05:18:16+09:00",
+    "updatedAtTimestamp": 1773260296,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1981,6 +1981,18 @@
                 { "bpm": 115, "time": 83.9557, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 123, "time": 100.6514, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 172, "time": 108.4562, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 251,
+            "name": "情熱と歓喜のCarnaval！",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 117, "time": 1.0256, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 117, "time": 52.3077, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 157, "time": 53.3333, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 157, "time": 54.0977, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 117, "time": 66.327, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
