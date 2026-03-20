@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-03-12T05:18:16+09:00",
-    "updatedAtTimestamp": 1773260296,
+    "updatedAt": "2026-03-20T17:00:12+09:00",
+    "updatedAtTimestamp": 1773993612,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1993,6 +1993,14 @@
                 { "bpm": 157, "time": 53.3333, "beats": [ 2, 4 ], "forced": false },
                 { "bpm": 157, "time": 54.0977, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 117, "time": 66.327, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 252,
+            "name": "劇団電姫すいっちおん！",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 190, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
