@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-03-23T15:00:49+09:00",
-    "updatedAtTimestamp": 1774245649,
+    "updatedAt": "2026-03-29T00:00:59+09:00",
+    "updatedAtTimestamp": 1774710059,
     "message": "The duration values stated here refer to the playing time of the song file in the default vocal version.",
     "data": {
         "1": 123.2144217687075,
@@ -612,6 +612,7 @@
         "658": 131.95646332176364,
         "659": 127.61983560488608,
         "660": 122.55362191094292,
+        "662": 126.1288822273116,
         "663": 133.0132426303855,
         "664": 130.39464814460737,
         "665": 132.01478458049885,
