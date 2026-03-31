@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-03-20T15:00:05+09:00",
-    "updatedAtTimestamp": 1773986405,
+    "updatedAt": "2026-03-31T15:00:05+09:00",
+    "updatedAtTimestamp": 1774936805,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1174,6 +1174,16 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 178, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 185,
+            "name": "散花-sanka-",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 138, "time": 0.0, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 212, "time": 157.0017, "beats": [ 2, 4 ], "forced": true },
+                { "bpm": 194, "time": 157.5677, "beats": [ 9, 8 ], "forced": false }
             ]
         },
         {
