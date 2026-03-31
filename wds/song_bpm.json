@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-03-20T17:00:12+09:00",
-    "updatedAtTimestamp": 1773993612,
+    "updatedAt": "2026-03-31T17:00:12+09:00",
+    "updatedAtTimestamp": 1774944012,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2001,6 +2001,14 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 190, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 253,
+            "name": "FUN×FUN☆SEEKER!!",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 148, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
