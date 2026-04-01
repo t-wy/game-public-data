@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-03-31T17:00:56+09:00",
-    "updatedAtTimestamp": 1774944056,
+    "updatedAt": "2026-04-01T17:00:49+09:00",
+    "updatedAtTimestamp": 1775030449,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3071,6 +3071,17 @@
                 { "difficulty": "NORMAL", "stat": { "note_count": 331, "tick_count": 169, "hold_end_count": 37, "scratch_hold_end_count": 0 } },
                 { "difficulty": "HARD", "stat": { "note_count": 528, "tick_count": 124, "hold_end_count": 101, "scratch_hold_end_count": 77 } },
                 { "difficulty": "EXTRA", "stat": { "note_count": 882, "tick_count": 256, "hold_end_count": 218, "scratch_hold_end_count": 162 } }
+            ]
+        },
+        {
+            "id": 10249,
+            "name": "Stellarium Collection Vol.1（Long Ver.）",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 572, "tick_count": 229, "hold_end_count": 71, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 958, "tick_count": 349, "hold_end_count": 184, "scratch_hold_end_count": 108 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 1476, "tick_count": 338, "hold_end_count": 281, "scratch_hold_end_count": 178 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 1936, "tick_count": 266, "hold_end_count": 384, "scratch_hold_end_count": 236 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 2239, "tick_count": 382, "hold_end_count": 379, "scratch_hold_end_count": 71 } }
             ]
         }
     ]

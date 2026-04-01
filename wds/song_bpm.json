@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-03-31T17:00:12+09:00",
-    "updatedAtTimestamp": 1774944012,
+    "updatedAt": "2026-04-01T17:00:12+09:00",
+    "updatedAtTimestamp": 1775030412,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2483,6 +2483,28 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 132, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 10249,
+            "name": "Stellarium Collection Vol.1（Long Ver.）",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 159, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 152, "time": 27.1698, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 111, "time": 52.433, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 119, "time": 52.9735, "beats": [ 4, 4 ], "forced": true },
+                { "bpm": 121, "time": 70.5964, "beats": [ 4, 4 ], "forced": true },
+                { "bpm": 153, "time": 86.4642, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 153, "time": 87.2485, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 123, "time": 112.3465, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 123, "time": 113.3221, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 148, "time": 136.7368, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 115, "time": 144.8449, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 123, "time": 161.5405, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 172, "time": 169.3454, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 130, "time": 205.6245, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 130, "time": 206.5476, "beats": [ 4, 4 ], "forced": false }
             ]
         }
     ]
