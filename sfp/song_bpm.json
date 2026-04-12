@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-04-10T15:00:05+09:00",
-    "updatedAtTimestamp": 1775800805,
+    "updatedAt": "2026-04-13T00:00:05+09:00",
+    "updatedAtTimestamp": 1776006005,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1357,6 +1357,51 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 175, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 217,
+            "name": "One Live One Love",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 232, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 218,
+            "name": "One Live One Love(Mortal Remix)",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 200, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 135, "time": 40.8, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 137.5, "time": 44.3556, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 140, "time": 47.8465, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 130.0108, "time": 118.1322, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 124, "time": 119.0552, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 234, "time": 120.0229, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 224, "time": 121.0486, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 224, "time": 121.3164, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 214, "time": 122.12, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 34, "time": 123.2415, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 170, "time": 124.4179, "beats": [ 4, 4 ], "forced": true },
+                { "bpm": 165, "time": 216.01, "beats": [ 4, 4 ], "forced": true },
+                { "bpm": 155, "time": 217.4645, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 155, "time": 218.6258, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 145.0151, "time": 219.0129, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 145.0151, "time": 219.8404, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 140, "time": 220.6679, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 140, "time": 222.3822, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 140, "time": 249.3822, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 135, "time": 250.6679, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 130, "time": 251.5568, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 120, "time": 252.9414, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 120, "time": 253.4414, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 230, "time": 254.4414, "beats": [ 6, 8 ], "forced": false },
+                { "bpm": 230, "time": 255.224, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 220, "time": 255.4849, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 208, "time": 256.5758, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 208, "time": 257.1527, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 200, "time": 257.7297, "beats": [ 4, 4 ], "forced": false }
             ]
         }
     ]
