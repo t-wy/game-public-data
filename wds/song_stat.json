@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-04-10T17:00:57+09:00",
-    "updatedAtTimestamp": 1775808057,
+    "updatedAt": "2026-04-20T17:00:55+09:00",
+    "updatedAtTimestamp": 1776672055,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2531,6 +2531,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 687, "tick_count": 105, "hold_end_count": 180, "scratch_hold_end_count": 132 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 888, "tick_count": 88, "hold_end_count": 176, "scratch_hold_end_count": 109 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1287, "tick_count": 132, "hold_end_count": 232, "scratch_hold_end_count": 108 } }
+            ]
+        },
+        {
+            "id": 255,
+            "name": "私の愛は愛を殺す",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 274, "tick_count": 146, "hold_end_count": 28, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 529, "tick_count": 238, "hold_end_count": 100, "scratch_hold_end_count": 57 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 858, "tick_count": 269, "hold_end_count": 243, "scratch_hold_end_count": 173 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 1119, "tick_count": 205, "hold_end_count": 397, "scratch_hold_end_count": 324 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1702, "tick_count": 345, "hold_end_count": 401, "scratch_hold_end_count": 205 } }
             ]
         },
         {

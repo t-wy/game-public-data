@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-04-10T17:00:14+09:00",
-    "updatedAtTimestamp": 1775808014,
+    "updatedAt": "2026-04-20T17:00:12+09:00",
+    "updatedAtTimestamp": 1776672012,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2017,6 +2017,19 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 137, "time": 0.438, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 255,
+            "name": "私の愛は愛を殺す",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 170, "time": 0.3529, "beats": [ 12, 8 ], "forced": false },
+                { "bpm": 182, "time": 34.2353, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 170, "time": 44.7847, "beats": [ 12, 8 ], "forced": false },
+                { "bpm": 170, "time": 63.8436, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 182, "time": 64.9024, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 170, "time": 70.1771, "beats": [ 12, 8 ], "forced": false }
             ]
         },
         {
