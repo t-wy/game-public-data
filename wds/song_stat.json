@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-04-20T17:00:55+09:00",
-    "updatedAtTimestamp": 1776672055,
+    "updatedAt": "2026-04-30T17:00:51+09:00",
+    "updatedAtTimestamp": 1777536051,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2542,6 +2542,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 858, "tick_count": 269, "hold_end_count": 243, "scratch_hold_end_count": 173 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 1119, "tick_count": 205, "hold_end_count": 397, "scratch_hold_end_count": 324 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1702, "tick_count": 345, "hold_end_count": 401, "scratch_hold_end_count": 205 } }
+            ]
+        },
+        {
+            "id": 256,
+            "name": "Besties' Place!",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 233, "tick_count": 104, "hold_end_count": 22, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 389, "tick_count": 119, "hold_end_count": 78, "scratch_hold_end_count": 40 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 634, "tick_count": 134, "hold_end_count": 115, "scratch_hold_end_count": 69 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 870, "tick_count": 108, "hold_end_count": 159, "scratch_hold_end_count": 92 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 981, "tick_count": 205, "hold_end_count": 167, "scratch_hold_end_count": 68 } }
             ]
         },
         {
