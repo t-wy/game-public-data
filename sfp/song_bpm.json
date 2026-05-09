@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-04-30T15:00:05+09:00",
-    "updatedAtTimestamp": 1777528805,
+    "updatedAt": "2026-05-09T15:00:05+09:00",
+    "updatedAtTimestamp": 1778306405,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -477,6 +477,14 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 200, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Resonance⁺",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 157, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
