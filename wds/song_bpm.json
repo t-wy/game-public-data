@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-04-30T17:00:11+09:00",
-    "updatedAtTimestamp": 1777536011,
+    "updatedAt": "2026-05-10T17:00:18+09:00",
+    "updatedAtTimestamp": 1778400018,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2038,6 +2038,31 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 150, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 257,
+            "name": "ふろうてぃんぐ・ていすてぃ",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 170, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 170, "time": 90.3529, "beats": [ 7, 8 ], "forced": false },
+                { "bpm": 175, "time": 91.5882, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 180, "time": 93.1311, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 180, "time": 93.7978, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 185, "time": 94.2978, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 190, "time": 95.7572, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 190, "time": 96.3888, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 195, "time": 96.8625, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 195, "time": 98.2471, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 195, "time": 100.7086, "beats": [ 7, 8 ], "forced": false },
+                { "bpm": 200, "time": 101.7856, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 205, "time": 103.1356, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 205, "time": 103.7209, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 210, "time": 104.1599, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 215, "time": 105.4457, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 215, "time": 106.0038, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 220, "time": 106.4224, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
