@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-05-10T17:00:18+09:00",
-    "updatedAtTimestamp": 1778400018,
+    "updatedAt": "2026-05-20T17:00:12+09:00",
+    "updatedAtTimestamp": 1779264012,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2063,6 +2063,23 @@
                 { "bpm": 215, "time": 105.4457, "beats": [ 2, 4 ], "forced": false },
                 { "bpm": 215, "time": 106.0038, "beats": [ 3, 8 ], "forced": false },
                 { "bpm": 220, "time": 106.4224, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 258,
+            "name": "非対称性のダンス",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 139, "time": 0.7554, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 112, "time": 10.6089, "beats": [ 9, 8 ], "forced": true },
+                { "bpm": 112, "time": 13.0196, "beats": [ 7, 8 ], "forced": false },
+                { "bpm": 147, "time": 14.8946, "beats": [ 5, 8 ], "forced": false },
+                { "bpm": 147, "time": 15.915, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 147, "time": 39.7926, "beats": [ 7, 8 ], "forced": false },
+                { "bpm": 159, "time": 41.2211, "beats": [ 3, 8 ], "forced": false },
+                { "bpm": 159, "time": 41.7872, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 159, "time": 55.3721, "beats": [ 7, 8 ], "forced": false },
+                { "bpm": 181, "time": 56.6928, "beats": [ 3, 4 ], "forced": false }
             ]
         },
         {

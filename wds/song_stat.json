@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-05-10T17:01:03+09:00",
-    "updatedAtTimestamp": 1778400063,
+    "updatedAt": "2026-05-20T17:00:50+09:00",
+    "updatedAtTimestamp": 1779264050,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2564,6 +2564,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 828, "tick_count": 200, "hold_end_count": 197, "scratch_hold_end_count": 104 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 1106, "tick_count": 185, "hold_end_count": 246, "scratch_hold_end_count": 171 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1413, "tick_count": 209, "hold_end_count": 322, "scratch_hold_end_count": 182 } }
+            ]
+        },
+        {
+            "id": 258,
+            "name": "非対称性のダンス",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 220, "tick_count": 86, "hold_end_count": 16, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 492, "tick_count": 165, "hold_end_count": 89, "scratch_hold_end_count": 44 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 768, "tick_count": 155, "hold_end_count": 135, "scratch_hold_end_count": 105 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 918, "tick_count": 74, "hold_end_count": 147, "scratch_hold_end_count": 89 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1297, "tick_count": 133, "hold_end_count": 217, "scratch_hold_end_count": 102 } }
             ]
         },
         {
