@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-05-31T15:00:05+09:00",
-    "updatedAtTimestamp": 1780207205,
+    "updatedAt": "2026-06-01T05:04:54+09:00",
+    "updatedAtTimestamp": 1780257894,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -8,7 +8,7 @@
             "name": "Ambitious Eve",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 177, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 177, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -104,7 +104,7 @@
             "name": "Hide & Attack",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 192, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 192, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -208,7 +208,7 @@
             "name": "Twinkle way",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 178, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 178, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -216,7 +216,7 @@
             "name": "ダブル・イフェクト",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 128, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 128, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -332,7 +332,7 @@
             "name": "無自覚アプリオリ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 146, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 146, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -412,7 +412,7 @@
             "name": "誰ソ彼アイデンティティー",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 156, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 156, "time": 0.7692, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -428,7 +428,7 @@
             "name": "HAREBARE!!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 82.5, "time": 0.3636, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 82.5, "time": 1.8181, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -516,7 +516,7 @@
             "name": "Timeless Shooting Star",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 128, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 128, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -524,7 +524,7 @@
             "name": "アスファルトを鳴らして",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 130, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 130, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -544,7 +544,7 @@
             "name": "Give me some more...",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 128, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 128, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -568,7 +568,7 @@
             "name": "Fashionable",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 130, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 130, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -584,7 +584,7 @@
             "name": "ハナムケのハナタバ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 134, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 134, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -640,10 +640,11 @@
             "name": "時限式狂騒ワンダーランド",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 150, "time": 0.0, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 150, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 206, "time": 22.4, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 206, "time": 73.6621, "beats": [ 2, 4 ], "forced": false },
-                { "bpm": 156.0149, "time": 74.2447, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 156.0149, "time": 74.2447, "beats": [ 4, 4 ], "forced": false },
+                { "bpm": 156.0149, "time": 85.0129, "beats": [ 2, 4 ], "forced": false },
                 { "bpm": 103, "time": 85.782, "beats": [ 3, 4 ], "forced": false },
                 { "bpm": 103, "time": 111.9956, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 150, "time": 114.3257, "beats": [ 2, 4 ], "forced": false }
@@ -654,7 +655,7 @@
             "name": "LINKs",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 176, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 176, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -670,7 +671,7 @@
             "name": "C’mon! Join Us",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 125, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 125, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -678,7 +679,7 @@
             "name": "After Run",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 160, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 160, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -742,14 +743,14 @@
             "name": "Shower of light",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 204, "time": 0.0, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 204, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 269.3417, "time": 23.5294, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 102, "time": 37.7864, "beats": [ 3, 8 ], "forced": false },
                 { "bpm": 102, "time": 38.6687, "beats": [ 6, 8 ], "forced": false },
                 { "bpm": 203, "time": 49.257, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 204, "time": 53.986, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 201, "time": 79.8684, "beats": [ 4, 4 ], "forced": false },
-                { "bpm": 203, "time": 82.2565, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 203, "time": 82.2565, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 205, "time": 91.7146, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 205, "time": 92.8853, "beats": [ 3, 4 ], "forced": false },
                 { "bpm": 102, "time": 99.9097, "beats": [ 2, 4 ], "forced": false }
@@ -776,9 +777,9 @@
             "name": "Real Mind Shakes",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 188, "time": 0.0, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 188, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 160, "time": 72.766, "beats": [ 2, 4 ], "forced": false },
-                { "bpm": 188, "time": 87.766, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 188, "time": 87.766, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -802,7 +803,7 @@
             "name": "SWEET♡STEP",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 180, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 180, "time": 0.6667, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -818,7 +819,7 @@
             "name": "ONE STAR",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 166, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 166, "time": 0.7229, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -850,7 +851,7 @@
             "name": "アルストロメリア(アニメ ver.)",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 140.14, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 140.14, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -901,7 +902,7 @@
             "name": "Poison Berry Daughters",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 154, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 154, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -925,7 +926,7 @@
             "name": "Future Transit",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 155, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 155, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -997,7 +998,7 @@
             "name": "OPEN the New world(アニメ ver.)",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 192.1901, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 192.1901, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1013,7 +1014,7 @@
                 { "bpm": 148.8899, "time": 11.9477, "beats": [ 9, 8 ], "forced": true },
                 { "bpm": 148.8899, "time": 13.7611, "beats": [ 3, 4 ], "forced": false },
                 { "bpm": 74.075, "time": 14.9701, "beats": [ 3, 4 ], "forced": false },
-                { "bpm": 74.075, "time": 17.4, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 74.075, "time": 17.4, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1029,7 +1030,7 @@
             "name": "CANDY UNIVERSE(アニメ ver.)",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 154.1411, "time": 0.7748, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 154.1411, "time": 1.5533, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1077,7 +1078,7 @@
             "name": "未来へのSign(アニメ ver.)",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 133.12, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 133.12, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1085,7 +1086,7 @@
             "name": "星の数だけ(アニメ ver.)",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 128.1199, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 128.1199, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1093,7 +1094,7 @@
             "name": "Summer Night Paradise",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 124, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 124, "time": 0.9677, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1109,7 +1110,7 @@
             "name": "Monochromatic",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 140, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 140, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1133,7 +1134,7 @@
             "name": "アイノウ",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 130, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 130, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1231,7 +1232,7 @@
             "name": "迅雷鉄火",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 194, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 194, "time": 0.6186, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1239,7 +1240,7 @@
             "name": "リフレインブレイン",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 135, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 135, "time": 0.8889, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1247,7 +1248,7 @@
             "name": "Sparkle",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 186, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 186, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1255,7 +1256,7 @@
             "name": "KAWAII♡めたもる交響曲",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 178, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 178, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1279,7 +1280,7 @@
             "name": "銀翼のアレジアンス -blade of truth-",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 147, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 147, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1287,7 +1288,7 @@
             "name": "メモワール・アンタクト",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 176, "time": 0.3409, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 176, "time": 0.3409, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {

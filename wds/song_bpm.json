@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-05-31T17:00:16+09:00",
-    "updatedAtTimestamp": 1780214416,
+    "updatedAt": "2026-06-01T05:05:13+09:00",
+    "updatedAtTimestamp": 1780257913,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -177,7 +177,7 @@
             "name": "暁星アストレーション",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 200, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 200, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -217,7 +217,7 @@
             "name": "心という名の不可解",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 152, "time": 0.5921, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 152, "time": 0.5921, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -376,7 +376,7 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 182, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
-                { "bpm": 140, "time": 23.7363, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 140, "time": 23.7363, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 182, "time": 39.1648, "beats": [ 4, 4 ], "forced": false }
             ]
         },
@@ -410,7 +410,7 @@
             "name": "I Wanna",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 200, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 200, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -621,7 +621,7 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 133, "time": 0.2256, "beats": [ 4, 4 ], "forced": false },
-                { "bpm": 146, "time": 12.8571, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 146, "time": 12.8571, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -677,7 +677,7 @@
             "name": "Rolling Stone",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 172, "time": 0.1744, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 172, "time": 0.1744, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -741,7 +741,7 @@
             "name": "ミックス・アップ・インタレスト！",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 138, "time": 0.6522, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 138, "time": 1.5217, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -846,7 +846,7 @@
             "name": "Friends Per Second",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 120, "time": 0.25, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 120, "time": 0.25, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -945,7 +945,7 @@
             "name": "Like Blooming Flowers",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 135, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 135, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1118,7 +1118,7 @@
             "name": "Y.Y.Y.計画!!!!",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 186, "time": 0.3226, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 186, "time": 0.3226, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1190,7 +1190,7 @@
             "name": "BiSH-星が瞬く夜に-",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 210, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 210, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1375,7 +1375,7 @@
             "name": "ヱテルナ・ガラクシア",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 185, "time": 0.3243, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 185, "time": 0.3243, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 134, "time": 79.3138, "beats": [ 3, 4 ], "forced": true },
                 { "bpm": 134, "time": 84.6869, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 185, "time": 86.478, "beats": [ 4, 4 ], "forced": false }
@@ -1394,7 +1394,7 @@
             "name": "トーキョー・ウィンター・ミュージック",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 132, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 132, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1606,7 +1606,7 @@
             "name": "Dear My Eden",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 190, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 190, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -1646,7 +1646,7 @@
             "name": "RAREFIED HEIGHTS",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 227, "time": 0.1322, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 227, "time": 0.1322, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2026,8 +2026,7 @@
             "bpm": [
                 { "bpm": 170, "time": 0.3529, "beats": [ 12, 8 ], "forced": false },
                 { "bpm": 182, "time": 34.2353, "beats": [ 4, 4 ], "forced": false },
-                { "bpm": 170, "time": 44.7847, "beats": [ 12, 8 ], "forced": false },
-                { "bpm": 170, "time": 63.8436, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 170, "time": 44.7847, "beats": [ 6, 8 ], "forced": false },
                 { "bpm": 182, "time": 64.9024, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 170, "time": 70.1771, "beats": [ 12, 8 ], "forced": false }
             ]
@@ -2143,7 +2142,7 @@
             "name": "Faith in Expression（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 140, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 140, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2159,7 +2158,7 @@
             "name": "デアエ・エクス・マキナ！（Long Ver.）",
             "mode": "Auto",
             "bpm": [
-                { "bpm": 175, "time": 0.0, "beats": [ 2, 4 ], "forced": false }
+                { "bpm": 175, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
@@ -2208,7 +2207,7 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 182, "time": 0.0, "beats": [ 4, 4 ], "forced": false },
-                { "bpm": 140, "time": 23.7363, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 140, "time": 23.7363, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 182, "time": 39.1648, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 140, "time": 82.6813, "beats": [ 4, 4 ], "forced": false },
                 { "bpm": 182, "time": 98.1099, "beats": [ 4, 4 ], "forced": false },
