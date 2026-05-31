@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-05-20T17:00:50+09:00",
-    "updatedAtTimestamp": 1779264050,
+    "updatedAt": "2026-05-31T17:00:56+09:00",
+    "updatedAtTimestamp": 1780214456,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2575,6 +2575,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 768, "tick_count": 155, "hold_end_count": 135, "scratch_hold_end_count": 105 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 918, "tick_count": 74, "hold_end_count": 147, "scratch_hold_end_count": 89 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1297, "tick_count": 133, "hold_end_count": 217, "scratch_hold_end_count": 102 } }
+            ]
+        },
+        {
+            "id": 259,
+            "name": "Fly to the WORLD",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 254, "tick_count": 130, "hold_end_count": 26, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 431, "tick_count": 193, "hold_end_count": 70, "scratch_hold_end_count": 36 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 708, "tick_count": 287, "hold_end_count": 132, "scratch_hold_end_count": 59 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 792, "tick_count": 231, "hold_end_count": 132, "scratch_hold_end_count": 80 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1061, "tick_count": 295, "hold_end_count": 190, "scratch_hold_end_count": 46 } }
             ]
         },
         {
