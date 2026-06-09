@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-05-31T17:00:56+09:00",
-    "updatedAtTimestamp": 1780214456,
+    "updatedAt": "2026-06-09T17:00:58+09:00",
+    "updatedAtTimestamp": 1780992058,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -3140,7 +3140,9 @@
             "difficulties": [
                 { "difficulty": "NORMAL", "stat": { "note_count": 331, "tick_count": 169, "hold_end_count": 37, "scratch_hold_end_count": 0 } },
                 { "difficulty": "HARD", "stat": { "note_count": 528, "tick_count": 124, "hold_end_count": 101, "scratch_hold_end_count": 77 } },
-                { "difficulty": "EXTRA", "stat": { "note_count": 882, "tick_count": 256, "hold_end_count": 218, "scratch_hold_end_count": 162 } }
+                { "difficulty": "EXTRA", "stat": { "note_count": 882, "tick_count": 256, "hold_end_count": 218, "scratch_hold_end_count": 162 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 1095, "tick_count": 194, "hold_end_count": 274, "scratch_hold_end_count": 152 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1614, "tick_count": 259, "hold_end_count": 361, "scratch_hold_end_count": 104 } }
             ]
         },
         {
