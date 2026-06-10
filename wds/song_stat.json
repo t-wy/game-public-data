@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-06-09T17:00:58+09:00",
-    "updatedAtTimestamp": 1780992058,
+    "updatedAt": "2026-06-10T17:01:24+09:00",
+    "updatedAtTimestamp": 1781078484,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2586,6 +2586,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 708, "tick_count": 287, "hold_end_count": 132, "scratch_hold_end_count": 59 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 792, "tick_count": 231, "hold_end_count": 132, "scratch_hold_end_count": 80 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 1061, "tick_count": 295, "hold_end_count": 190, "scratch_hold_end_count": 46 } }
+            ]
+        },
+        {
+            "id": 260,
+            "name": "雨に願えば",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 265, "tick_count": 176, "hold_end_count": 22, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 448, "tick_count": 257, "hold_end_count": 73, "scratch_hold_end_count": 26 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 686, "tick_count": 288, "hold_end_count": 96, "scratch_hold_end_count": 41 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 762, "tick_count": 316, "hold_end_count": 136, "scratch_hold_end_count": 48 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 891, "tick_count": 345, "hold_end_count": 115, "scratch_hold_end_count": 24 } }
             ]
         },
         {
