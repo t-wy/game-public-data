@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-06-10T17:00:31+09:00",
-    "updatedAtTimestamp": 1781078431,
+    "updatedAt": "2026-06-20T17:00:14+09:00",
+    "updatedAtTimestamp": 1781942414,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2095,6 +2095,14 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 210, "time": 0.0, "beats": [ 12, 8 ], "forced": false }
+            ]
+        },
+        {
+            "id": 261,
+            "name": "Make New Testament",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 150, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {

@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-06-10T17:01:24+09:00",
-    "updatedAtTimestamp": 1781078484,
+    "updatedAt": "2026-06-20T17:00:57+09:00",
+    "updatedAtTimestamp": 1781942457,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2597,6 +2597,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 686, "tick_count": 288, "hold_end_count": 96, "scratch_hold_end_count": 41 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 762, "tick_count": 316, "hold_end_count": 136, "scratch_hold_end_count": 48 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 891, "tick_count": 345, "hold_end_count": 115, "scratch_hold_end_count": 24 } }
+            ]
+        },
+        {
+            "id": 261,
+            "name": "Make New Testament",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 247, "tick_count": 87, "hold_end_count": 31, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 510, "tick_count": 157, "hold_end_count": 116, "scratch_hold_end_count": 58 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 800, "tick_count": 214, "hold_end_count": 202, "scratch_hold_end_count": 141 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 923, "tick_count": 75, "hold_end_count": 177, "scratch_hold_end_count": 133 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 1331, "tick_count": 135, "hold_end_count": 150, "scratch_hold_end_count": 71 } }
             ]
         },
         {
