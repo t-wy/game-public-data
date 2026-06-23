@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-06-22T17:02:17+09:00",
-    "updatedAtTimestamp": 1782115337,
+    "updatedAt": "2026-06-23T17:02:41+09:00",
+    "updatedAtTimestamp": 1782201761,
     "message": "The event rate here comes from values submitted by users. It may contain errors.",
     "data": {
         "1": 114,
@@ -688,6 +688,7 @@
         "743": 107,
         "744": 120,
         "747": 118,
+        "748": 116,
         "755": 122,
         "757": 230,
         "760": 115
