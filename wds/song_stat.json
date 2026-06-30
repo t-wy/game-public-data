@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-06-20T17:00:57+09:00",
-    "updatedAtTimestamp": 1781942457,
+    "updatedAt": "2026-06-30T17:01:36+09:00",
+    "updatedAtTimestamp": 1782806496,
     "message": "This file contains all necessary information in order to calculate the note count, life required, hands-on life required, and hands-on achieve rate of a song difficulty. Since version 1.20.0, the life required = note_count * 80 - hold_end_count * 30 - tick_count * 50. (1.19.0: note_count * 80 - hold_end_count * 30 - tick_count * 30, and before 1.19.0: note_count * 80 - tick_count * 50)",
     "data": [
         {
@@ -2619,6 +2619,17 @@
                 { "difficulty": "EXTRA", "stat": { "note_count": 1321, "tick_count": 356, "hold_end_count": 285, "scratch_hold_end_count": 204 } },
                 { "difficulty": "STELLA", "stat": { "note_count": 1505, "tick_count": 102, "hold_end_count": 446, "scratch_hold_end_count": 337 } },
                 { "difficulty": "OLIVIER", "stat": { "note_count": 2211, "tick_count": 229, "hold_end_count": 465, "scratch_hold_end_count": 226 } }
+            ]
+        },
+        {
+            "id": 263,
+            "name": "LIVE OUR STAR",
+            "difficulties": [
+                { "difficulty": "NORMAL", "stat": { "note_count": 512, "tick_count": 216, "hold_end_count": 58, "scratch_hold_end_count": 0 } },
+                { "difficulty": "HARD", "stat": { "note_count": 911, "tick_count": 324, "hold_end_count": 190, "scratch_hold_end_count": 66 } },
+                { "difficulty": "EXTRA", "stat": { "note_count": 1529, "tick_count": 525, "hold_end_count": 345, "scratch_hold_end_count": 232 } },
+                { "difficulty": "STELLA", "stat": { "note_count": 1665, "tick_count": 228, "hold_end_count": 296, "scratch_hold_end_count": 155 } },
+                { "difficulty": "OLIVIER", "stat": { "note_count": 2200, "tick_count": 389, "hold_end_count": 271, "scratch_hold_end_count": 180 } }
             ]
         },
         {

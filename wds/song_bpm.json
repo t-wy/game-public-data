@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-06-20T17:00:14+09:00",
-    "updatedAtTimestamp": 1781942414,
+    "updatedAt": "2026-06-30T17:00:47+09:00",
+    "updatedAtTimestamp": 1782806447,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2111,6 +2111,14 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 190, "time": 0.9474, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 263,
+            "name": "LIVE OUR STAR",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 194, "time": 0.1546, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
