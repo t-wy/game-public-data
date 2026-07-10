@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-06-30T17:00:47+09:00",
-    "updatedAtTimestamp": 1782806447,
+    "updatedAt": "2026-07-10T17:00:12+09:00",
+    "updatedAtTimestamp": 1783670412,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2119,6 +2119,14 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 194, "time": 0.1546, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 264,
+            "name": "LIFE IS BEAUTIFUL STAGE",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 147, "time": 1.8367, "beats": [ 9, 8 ], "forced": false }
             ]
         },
         {
