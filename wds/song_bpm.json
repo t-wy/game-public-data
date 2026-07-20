@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-07-10T17:00:12+09:00",
-    "updatedAtTimestamp": 1783670412,
+    "updatedAt": "2026-07-20T17:00:12+09:00",
+    "updatedAtTimestamp": 1784534412,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/wds/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -2127,6 +2127,28 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 147, "time": 1.8367, "beats": [ 9, 8 ], "forced": false }
+            ]
+        },
+        {
+            "id": 265,
+            "name": "ワールドダイスター！",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 92, "time": 0.0, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 84, "time": 3.913, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 39, "time": 4.6273, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 128, "time": 5.3966, "beats": [ 3, 4 ], "forced": false },
+                { "bpm": 128, "time": 6.8028, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 142, "time": 7.0372, "beats": [ 7, 8 ], "forced": false },
+                { "bpm": 142, "time": 8.5161, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 75, "time": 8.7273, "beats": [ 2, 4 ], "forced": false },
+                { "bpm": 75, "time": 10.3273, "beats": [ 9, 8 ], "forced": false },
+                { "bpm": 120, "time": 10.3273, "beats": [ 3, 8 ], "forced": true },
+                { "bpm": 112, "time": 11.0773, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 100, "time": 11.613, "beats": [ 1, 4 ], "forced": false },
+                { "bpm": 43.5, "time": 12.213, "beats": [ 1, 8 ], "forced": false },
+                { "bpm": 171, "time": 12.9027, "beats": [ 5, 8 ], "forced": false },
+                { "bpm": 171, "time": 13.7799, "beats": [ 9, 8 ], "forced": false }
             ]
         },
         {
