@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-07-29T20:18:20+09:00",
-    "updatedAtTimestamp": 1785323900,
+    "updatedAt": "2026-07-31T12:01:38+09:00",
+    "updatedAtTimestamp": 1785466898,
     "message": "The key used here is the id in the musicDifficulties table. The corresponding musicId and musicDifficulty should be found there. The first number is the exclusive coverage, and the second number is the inclusive coverage. Notice that eighth ticks are always treated as strictly after the note time.",
     "data": {
         "1": {
@@ -333415,7 +333415,7 @@
             "music_id": 790,
             "music_difficulty": "master",
             "score_data": {
-                "base_score": 1.051957897836005,
+                "base_score": 1.0519711467687298,
                 "base_score_auto": 0.7000000000000001,
                 "skill_score_solo": [
                     [
@@ -333428,7 +333428,7 @@
                     ],
                     [
                         0.07868688355660242,
-                        0.08327984690122188
+                        0.0832798469012219
                     ],
                     [
                         0.027278080376858513,
@@ -333480,7 +333480,7 @@
                     ],
                     [
                         0.07868688355660242,
-                        0.08327984690122188
+                        0.0832798469012219
                     ],
                     [
                         0.0,
