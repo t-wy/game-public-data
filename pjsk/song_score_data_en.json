@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-09-02T12:02:16+09:00",
-    "updatedAtTimestamp": 1788318136,
+    "updatedAt": "2026-09-04T00:04:42+09:00",
+    "updatedAtTimestamp": 1788447882,
     "message": "The key used here is the id in the musicDifficulties table. The corresponding musicId and musicDifficulty should be found there. The first number is the exclusive coverage, and the second number is the inclusive coverage. Notice that eighth ticks are always treated as strictly after the note time.",
     "data": {
         "1": {
@@ -160443,7 +160443,7 @@
                         0.025417759460472103
                     ]
                 ],
-                "fever_end": 148.22222222222223,
+                "fever_end": 148.2222222222222,
                 "fever_score": [
                     0.1322986137130012,
                     0.14026039715249164
