@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-09-07T00:00:06+09:00",
-    "updatedAtTimestamp": 1788706806,
+    "updatedAt": "2026-09-18T15:00:05+09:00",
+    "updatedAtTimestamp": 1789711205,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1502,6 +1502,14 @@
             "mode": "Auto",
             "bpm": [
                 { "bpm": 226, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 224,
+            "name": "ブレイク・アウト・セレンディピティ",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 143, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         }
     ]
