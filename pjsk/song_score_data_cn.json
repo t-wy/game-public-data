@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-09-28T17:02:22+09:00",
-    "updatedAtTimestamp": 1790582542,
+    "updatedAt": "2026-09-29T17:02:36+09:00",
+    "updatedAtTimestamp": 1790668956,
     "message": "The key used here is the id in the musicDifficulties table. The corresponding musicId and musicDifficulty should be found there. The first number is the exclusive coverage, and the second number is the inclusive coverage. Notice that eighth ticks are always treated as strictly after the note time.",
     "data": {
         "1": {
@@ -288329,6 +288329,466 @@
                     0.0
                 ],
                 "note_count": 1538
+            }
+        },
+        "4169": {
+            "music_id": 801,
+            "music_difficulty": "easy",
+            "score_data": {
+                "base_score": 1.0147043363994743,
+                "base_score_auto": 0.6999999999999968,
+                "skill_score_solo": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "skill_score_auto": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "fever_skill_score": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "fever_end": null,
+                "fever_score": [
+                    0.0,
+                    0.0
+                ],
+                "note_count": 353
+            }
+        },
+        "4170": {
+            "music_id": 801,
+            "music_difficulty": "normal",
+            "score_data": {
+                "base_score": 1.0176194797338165,
+                "base_score_auto": 0.6999999999999986,
+                "skill_score_solo": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "skill_score_auto": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "fever_skill_score": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "fever_end": null,
+                "fever_score": [
+                    0.0,
+                    0.0
+                ],
+                "note_count": 418
+            }
+        },
+        "4171": {
+            "music_id": 801,
+            "music_difficulty": "hard",
+            "score_data": {
+                "base_score": 1.0302560994090073,
+                "base_score_auto": 0.699999999999997,
+                "skill_score_solo": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "skill_score_auto": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "fever_skill_score": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "fever_end": null,
+                "fever_score": [
+                    0.0,
+                    0.0
+                ],
+                "note_count": 647
+            }
+        },
+        "4172": {
+            "music_id": 801,
+            "music_difficulty": "expert",
+            "score_data": {
+                "base_score": 1.0443547548934773,
+                "base_score_auto": 0.7000000000000014,
+                "skill_score_solo": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "skill_score_auto": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "fever_skill_score": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "fever_end": null,
+                "fever_score": [
+                    0.0,
+                    0.0
+                ],
+                "note_count": 951
+            }
+        },
+        "4173": {
+            "music_id": 801,
+            "music_difficulty": "master",
+            "score_data": {
+                "base_score": 1.0609513830679127,
+                "base_score_auto": 0.6999999999999851,
+                "skill_score_solo": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "skill_score_auto": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "fever_skill_score": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "fever_end": null,
+                "fever_score": [
+                    0.0,
+                    0.0
+                ],
+                "note_count": 1393
             }
         },
         "4181": {
