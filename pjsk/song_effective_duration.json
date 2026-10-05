@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-10-04T17:03:03+09:00",
-    "updatedAtTimestamp": 1791100983,
+    "updatedAt": "2026-10-05T17:02:50+09:00",
+    "updatedAtTimestamp": 1791187370,
     "message": "The effective duration here comes from values submitted by users. It contains the number of seconds used in calculating event break time.",
     "data": {
         "1": 123,
@@ -708,6 +708,7 @@
         "765": 93,
         "766": 127,
         "774": 128,
+        "775": 120,
         "784": 123,
         "788": 90,
         "789": 121,
