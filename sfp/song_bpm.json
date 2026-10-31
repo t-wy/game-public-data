@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-10-21T15:00:05+09:00",
-    "updatedAtTimestamp": 1792562405,
+    "updatedAt": "2026-10-31T15:00:05+09:00",
+    "updatedAtTimestamp": 1793426405,
     "message": "This file was automatically generated. If there is any issue, please edit or add an entry to https://github.com/t-wy/discord_bot_public/blob/main/sfp/song_chart_known_bpm.py instead of this file.",
     "data": [
         {
@@ -1478,6 +1478,14 @@
                 { "bpm": 208, "time": 256.5758, "beats": [ 2, 4 ], "forced": false },
                 { "bpm": 208, "time": 257.1527, "beats": [ 2, 4 ], "forced": false },
                 { "bpm": 200, "time": 257.7297, "beats": [ 4, 4 ], "forced": false }
+            ]
+        },
+        {
+            "id": 219,
+            "name": "OVERLAY OF HOPES",
+            "mode": "Auto",
+            "bpm": [
+                { "bpm": 129, "time": 0.0, "beats": [ 4, 4 ], "forced": false }
             ]
         },
         {
