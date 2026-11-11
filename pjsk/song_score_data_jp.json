@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-11-09T00:01:18+09:00",
-    "updatedAtTimestamp": 1794150078,
+    "updatedAt": "2026-11-11T12:11:24+09:00",
+    "updatedAtTimestamp": 1794366684,
     "message": "The key used here is the id in the musicDifficulties table. The corresponding musicId and musicDifficulty should be found there. The first number is the exclusive coverage, and the second number is the inclusive coverage. Notice that eighth ticks are always treated as strictly after the note time.",
     "data": {
         "1": {
@@ -6533,6 +6533,98 @@
                     0.1310185420370842
                 ],
                 "note_count": 979
+            }
+        },
+        "4154": {
+            "music_id": 22,
+            "music_difficulty": "append",
+            "score_data": {
+                "base_score": 1.0666582671060412,
+                "base_score_auto": 0.6999999999999958,
+                "skill_score_solo": [
+                    [
+                        0.03553304904051171,
+                        0.040427408412483025
+                    ],
+                    [
+                        0.04681818181818186,
+                        0.05180945919751894
+                    ],
+                    [
+                        0.049253731343283626,
+                        0.053324287652645914
+                    ],
+                    [
+                        0.052350261678619864,
+                        0.05450765652258187
+                    ],
+                    [
+                        0.08847547974413641,
+                        0.09270110486528392
+                    ],
+                    [
+                        0.0359275053304904,
+                        0.04339019189765456
+                    ]
+                ],
+                "skill_score_auto": [
+                    [
+                        0.024626865671641806,
+                        0.02801899592944371
+                    ],
+                    [
+                        0.031818181818181836,
+                        0.03521031207598371
+                    ],
+                    [
+                        0.0328358208955224,
+                        0.0355495251017639
+                    ],
+                    [
+                        0.03453188602442332,
+                        0.035956580732700104
+                    ],
+                    [
+                        0.05664857530529161,
+                        0.059362279511533125
+                    ],
+                    [
+                        0.022862957937584822,
+                        0.02761194029850749
+                    ]
+                ],
+                "fever_skill_score": [
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        0.08847547974413641,
+                        0.09270110486528392
+                    ],
+                    [
+                        0.0,
+                        0.0
+                    ]
+                ],
+                "fever_end": 67.5,
+                "fever_score": [
+                    0.1366194999030818,
+                    0.1432002326032175
+                ],
+                "note_count": 1516
             }
         },
         "126": {
